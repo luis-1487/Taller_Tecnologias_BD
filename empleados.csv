@@ -1,0 +1,31 @@
+empleado_id,nombre,apellido,cargo,email,fecha_contratacion,salario
+301,Anastasia,Villanueva,Cadete,anastasia.villanueva@librosya.com,2020-03-11,31278.85
+302,Joaquín,Pol,Cadete,joaquin.pol@librosya.com,2022-08-29,31483.1
+303,Xavier,Segarra,Asistente de Almacén,xavier.segarra@librosya.com,2021-01-22,32669.63
+304,Anunciación,Batlle,Asistente de Almacén,anunciacion.batlle@librosya.com,2020-11-20,34030.1
+305,Aitor,Uriarte,Asistente de Almacén,aitor.uriarte@librosya.com,2020-04-08,33771.48
+306,Abraham,Vicens,Atención al Cliente,abraham.vicens@librosya.com,2022-05-13,35148.99
+307,Jessica,Cañizares,Atención al Cliente,jessica.canizares@librosya.com,2020-03-17,36163.3
+308,José,Balaguer,Atención al Cliente,jose.balaguer@librosya.com,2024-08-13,37806.23
+309,Anita,Gisbert,Atención al Cliente,anita.gisbert@librosya.com,2023-01-12,36102.2
+310,Evita,Palmer,Atención al Cliente,evita.palmer@librosya.com,2019-12-26,39047.15
+311,Celso,Gilabert,Atención al Cliente,celso.gilabert@librosya.com,2021-09-13,38794.04
+312,Graciano,Caballero,Atención al Cliente,graciano.caballero@librosya.com,2023-09-23,38490.7
+313,Pedro,Santos,Atención al Cliente,pedro.santos@librosya.com,2022-04-29,36389.36
+314,Corona,Escalona,Atención al Cliente,corona.escalona@librosya.com,2023-09-08,39786.07
+315,Bartolomé,Escribano,Atención al Cliente,bartolome.escribano@librosya.com,2024-03-04,35511.05
+316,Hilda,Ibarra,Administrativo,hilda.ibarra@librosya.com,2023-10-08,40967.16
+317,Máxima,Rosell,Administrativo,maxima.rosell@librosya.com,2020-05-25,46037.26
+318,Rogelio,Blanes,Analista de Datos,rogelio.blanes@librosya.com,2021-04-24,55945.98
+319,Patricia,Ponce,Analista de Datos,patricia.ponce@librosya.com,2024-02-27,59596.74
+320,Fernanda,Céspedes,Desarrollador,fernanda.cespedes@librosya.com,2023-03-14,52364.01
+321,Alcides,Blanca,Desarrollador,alcides.blanca@librosya.com,2023-12-20,74882.14
+322,Victor Manuel,Corbacho,Desarrollador,victor manuel.corbacho@librosya.com,2020-09-09,67320.56
+323,Dolores,Morell,Desarrollador,dolores.morell@librosya.com,2022-06-20,51374.73
+324,Macarena,Caro,Ingeniero de Soporte,macarena.caro@librosya.com,2020-10-21,77057.39
+325,Iris,Checa,Ingeniero de Soporte,iris.checa@librosya.com,2021-01-16,79936.12
+326,Rico,Quero,Gerente Comercial,rico.quero@librosya.com,2024-12-30,111403.79
+327,Bautista,Riquelme,Gerente de Administración,bautista.riquelme@librosya.com,2024-01-02,129070.53
+328,Delia,Rocha,Gerente Legal,delia.rocha@librosya.com,2023-11-24,124879.62
+329,Maura,Cano,Gerente Recursos Humanos,maura.cano@librosya.com,2022-11-27,138380.28
+330,Chucho,Aller,Gerente General,chucho.aller@librosya.com,2020-09-17,200000.0

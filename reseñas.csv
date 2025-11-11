@@ -1,0 +1,1501 @@
+reseña_id,libro_id,cliente_id,calificacion,comentario,fecha_reseña
+401,321-4-64-493699-2,226,3,"Regular, algunas partes aburridas.",2022-07-03
+402,202-1-70-754853-2,305,5,"Excelente libro, lo recomiendo totalmente.",2024-09-24
+403,612-2-86-852897-8,231,1,"No me gustó nada, mal escrito.",2022-08-10
+404,132-8-15-613682-4,228,5,"Una lectura imprescindible, muy bien escrito.",2024-09-14
+405,999-4-45-744410-8,660,5,"Magnífico, superó mis expectativas.",2020-01-27
+406,256-2-47-286394-4,633,3,"Correcto, aunque esperaba más profundidad.",2021-09-28
+407,737-5-94-933078-9,545,1,"Muy malo, una pérdida de tiempo.",2024-04-05
+408,795-5-15-122946-2,568,3,Tiene puntos interesantes pero no destaca.,2022-12-19
+409,290-2-57-252045-1,671,5,"Excelente libro, lo recomiendo totalmente.",2024-03-30
+410,496-7-82-741176-0,766,3,Tiene puntos interesantes pero no destaca.,2024-01-21
+411,719-6-52-630266-7,397,1,"Muy malo, una pérdida de tiempo.",2022-07-22
+412,778-1-89-863613-9,282,2,"Flojo, esperaba más del autor.",2024-04-05
+413,254-7-80-095804-2,665,3,"Regular, algunas partes aburridas.",2024-02-25
+414,673-2-38-368414-3,415,3,"Está bien, pero no me atrapó del todo.",2021-12-01
+415,803-8-81-437104-9,451,2,"No lo recomendaría, bastante predecible.",2024-04-03
+416,484-4-27-398356-3,771,2,Poco claro en algunos capítulos.,2020-08-17
+417,874-0-50-133203-4,233,3,"Pasable, lectura ligera.",2023-01-01
+418,102-2-52-677119-5,417,5,"Magnífico, superó mis expectativas.",2022-05-20
+419,782-0-01-376835-2,606,4,Interesante y bien estructurado.,2022-12-20
+420,202-1-70-754853-2,453,5,"Simplemente perfecto, gran autor.",2022-12-12
+421,619-6-23-268625-0,639,5,De lo mejor que he leído últimamente.,2024-01-22
+422,476-2-53-950111-8,342,5,De lo mejor que he leído últimamente.,2021-01-07
+423,570-0-27-206345-5,313,2,No me convenció la trama.,2024-09-25
+424,876-5-97-324605-4,266,4,"Cumple lo que promete, recomendable.",2025-04-01
+425,160-3-28-889489-8,458,5,"Excelente libro, lo recomiendo totalmente.",2021-04-14
+426,433-4-92-321243-8,474,3,"Está bien, pero no me atrapó del todo.",2023-04-17
+427,911-3-92-823696-1,362,4,"Muy bueno, aunque esperaba un poco más.",2022-12-14
+428,574-1-94-508906-8,383,5,"Excelente libro, lo recomiendo totalmente.",2023-05-07
+429,741-5-86-795240-0,404,2,Poco claro en algunos capítulos.,2021-10-23
+430,772-3-55-172748-8,744,1,No vale la pena leerlo.,2023-08-20
+431,603-5-62-706105-3,220,1,Confuso y aburrido.,2023-06-13
+432,106-1-44-529964-9,260,2,"Demasiado simple, le falta desarrollo.",2020-11-18
+433,677-4-72-264085-4,698,1,No vale la pena leerlo.,2021-05-30
+434,882-4-93-534001-5,687,5,"Una lectura imprescindible, muy bien escrito.",2022-12-21
+435,152-3-85-897250-7,634,2,"Demasiado simple, le falta desarrollo.",2022-04-03
+436,725-5-32-052851-9,609,3,"Pasable, lectura ligera.",2025-10-20
+437,661-5-92-220976-5,324,2,No me convenció la trama.,2020-09-19
+438,803-0-89-229064-9,222,5,"Simplemente perfecto, gran autor.",2022-07-31
+439,128-1-47-143840-3,426,1,"Muy malo, una pérdida de tiempo.",2020-08-29
+440,172-3-66-704171-9,270,1,Confuso y aburrido.,2020-10-17
+441,481-7-55-253912-6,444,3,"Pasable, lectura ligera.",2022-05-27
+442,681-3-56-362244-2,336,5,"Simplemente perfecto, gran autor.",2025-04-20
+443,781-9-51-648497-5,685,4,Interesante y bien estructurado.,2021-01-21
+444,203-4-47-650471-5,642,3,"Pasable, lectura ligera.",2024-08-10
+445,718-0-45-591289-9,256,1,"Muy malo, una pérdida de tiempo.",2024-07-07
+446,848-7-49-400926-9,312,2,No me convenció la trama.,2022-02-18
+447,066-0-56-772136-9,660,2,"No lo recomendaría, bastante predecible.",2022-01-21
+448,903-5-94-094294-4,674,2,"Flojo, esperaba más del autor.",2024-12-20
+449,104-5-68-826342-1,301,1,No vale la pena leerlo.,2020-03-01
+450,186-2-33-922071-4,443,2,"No lo recomendaría, bastante predecible.",2025-06-12
+451,491-7-64-826148-8,419,4,"Muy bueno, aunque esperaba un poco más.",2021-11-05
+452,271-9-18-993819-3,203,4,"Buena historia, bien desarrollada.",2025-02-06
+453,677-5-27-071279-6,634,5,De lo mejor que he leído últimamente.,2021-09-26
+454,537-0-62-728167-6,504,2,"Flojo, esperaba más del autor.",2020-09-06
+455,726-0-21-318066-8,259,1,No vale la pena leerlo.,2025-05-06
+456,399-5-43-161186-4,744,2,"Flojo, esperaba más del autor.",2025-09-11
+457,008-9-21-963945-4,391,1,No vale la pena leerlo.,2020-10-05
+458,466-9-44-733878-5,614,1,No vale la pena leerlo.,2022-10-05
+459,242-7-42-078427-9,241,5,"Excelente libro, lo recomiendo totalmente.",2024-09-13
+460,789-4-26-032003-8,779,5,"Magnífico, superó mis expectativas.",2022-12-04
+461,901-4-30-974274-6,522,2,Poco claro en algunos capítulos.,2024-06-09
+462,011-9-50-927115-3,508,4,"Buena historia, bien desarrollada.",2020-10-24
+463,484-2-19-933083-6,670,5,"Simplemente perfecto, gran autor.",2021-02-13
+464,004-2-54-882142-6,751,2,"Demasiado simple, le falta desarrollo.",2022-12-22
+465,452-0-36-089411-9,558,1,"No me gustó nada, mal escrito.",2024-02-22
+466,371-0-53-925906-6,362,4,"Buen libro, aunque con algunos altibajos.",2023-05-24
+467,589-1-99-597465-1,209,5,"Magnífico, superó mis expectativas.",2021-02-28
+468,322-7-75-213530-0,471,1,"Muy malo, una pérdida de tiempo.",2021-09-28
+469,565-3-52-437795-7,489,5,"Una lectura imprescindible, muy bien escrito.",2023-11-05
+470,136-2-33-470407-8,471,5,De lo mejor que he leído últimamente.,2022-10-25
+471,908-4-66-845504-5,295,4,"Buena historia, bien desarrollada.",2020-06-29
+472,165-6-04-945198-4,542,2,Poco claro en algunos capítulos.,2021-10-23
+473,427-3-59-840705-6,765,4,"Buen libro, aunque con algunos altibajos.",2020-02-09
+474,073-6-51-189394-6,278,2,"Demasiado simple, le falta desarrollo.",2020-05-27
+475,792-5-17-333581-6,797,5,"Una lectura imprescindible, muy bien escrito.",2024-10-26
+476,115-8-48-860080-5,243,3,"Correcto, aunque esperaba más profundidad.",2020-06-12
+477,240-5-55-251774-3,416,2,"Flojo, esperaba más del autor.",2023-12-19
+478,165-8-06-438551-0,617,5,"Una lectura imprescindible, muy bien escrito.",2022-08-27
+479,958-7-30-549824-0,382,4,"Muy bueno, aunque esperaba un poco más.",2022-01-04
+480,969-0-01-923315-8,622,2,Poco claro en algunos capítulos.,2021-10-14
+481,627-7-65-725659-1,592,1,De los peores libros que he leído.,2022-06-30
+482,182-9-91-269945-9,672,3,"Correcto, aunque esperaba más profundidad.",2022-07-21
+483,092-8-26-164170-4,225,2,"No lo recomendaría, bastante predecible.",2023-09-06
+484,903-2-38-876766-5,272,3,"Correcto, aunque esperaba más profundidad.",2025-09-17
+485,426-8-98-807757-5,750,3,"Está bien, pero no me atrapó del todo.",2021-04-17
+486,982-4-37-804704-4,383,5,"Magnífico, superó mis expectativas.",2020-06-05
+487,936-0-79-848704-1,645,3,"Correcto, aunque esperaba más profundidad.",2024-11-22
+488,867-4-16-073198-6,724,1,De los peores libros que he leído.,2022-02-17
+489,511-0-96-745136-6,246,4,"Muy bueno, aunque esperaba un poco más.",2025-10-30
+490,387-4-43-730535-2,402,3,"Pasable, lectura ligera.",2020-10-13
+491,187-5-88-041403-7,522,1,Confuso y aburrido.,2025-09-08
+492,054-8-56-257504-3,619,3,"Pasable, lectura ligera.",2023-04-26
+493,468-1-38-933138-9,331,2,"No lo recomendaría, bastante predecible.",2024-04-01
+494,221-8-16-981413-2,783,3,"Pasable, lectura ligera.",2020-01-02
+495,731-3-40-377917-0,494,2,"No lo recomendaría, bastante predecible.",2023-08-12
+496,035-5-99-673131-6,653,4,Interesante y bien estructurado.,2025-09-24
+497,376-4-94-133098-1,374,1,Confuso y aburrido.,2025-10-12
+498,790-3-36-759479-9,296,2,Poco claro en algunos capítulos.,2022-07-09
+499,309-1-21-852734-9,351,1,"Muy malo, una pérdida de tiempo.",2022-09-29
+500,334-0-97-055501-6,275,4,"Cumple lo que promete, recomendable.",2022-03-07
+501,849-1-98-661329-2,707,4,Interesante y bien estructurado.,2021-08-27
+502,794-7-38-347359-1,310,4,Interesante y bien estructurado.,2021-12-21
+503,062-7-24-470996-6,676,1,No vale la pena leerlo.,2022-10-17
+504,983-5-84-461777-7,668,2,"No lo recomendaría, bastante predecible.",2023-07-23
+505,289-7-57-203143-7,717,4,"Buen libro, aunque con algunos altibajos.",2024-12-31
+506,819-2-04-877067-9,687,4,"Buena historia, bien desarrollada.",2022-10-09
+507,593-6-01-941270-9,734,4,Interesante y bien estructurado.,2023-01-29
+508,863-2-31-026557-6,280,3,"Regular, algunas partes aburridas.",2023-01-17
+509,176-6-35-215267-3,528,5,"Excelente libro, lo recomiendo totalmente.",2021-07-20
+510,211-9-15-891268-9,437,4,Interesante y bien estructurado.,2022-05-26
+511,145-4-56-350200-3,625,4,"Buena historia, bien desarrollada.",2025-03-23
+512,143-8-27-646123-9,264,2,"No lo recomendaría, bastante predecible.",2024-05-14
+513,209-5-54-093436-4,221,5,De lo mejor que he leído últimamente.,2025-05-07
+514,522-0-47-277901-2,561,3,"Pasable, lectura ligera.",2024-09-12
+515,200-2-55-693186-7,760,5,"Una lectura imprescindible, muy bien escrito.",2025-06-22
+516,778-8-82-603174-5,480,4,"Cumple lo que promete, recomendable.",2020-04-28
+517,272-2-37-369504-8,545,4,Interesante y bien estructurado.,2025-03-29
+518,782-3-12-995704-7,747,1,De los peores libros que he leído.,2020-04-21
+519,262-4-46-704622-7,639,2,"No lo recomendaría, bastante predecible.",2022-01-14
+520,561-9-31-837455-7,467,4,"Buena historia, bien desarrollada.",2022-05-16
+521,884-9-74-163228-4,535,3,"Pasable, lectura ligera.",2023-02-13
+522,312-9-50-488819-2,459,1,De los peores libros que he leído.,2020-03-20
+523,772-3-55-172748-8,254,3,"Regular, algunas partes aburridas.",2020-10-08
+524,021-9-46-723248-4,232,2,No me convenció la trama.,2020-03-24
+525,527-3-53-642357-4,445,2,"No lo recomendaría, bastante predecible.",2021-04-13
+526,304-2-14-538233-4,424,4,"Buena historia, bien desarrollada.",2024-02-19
+527,017-3-16-715605-4,318,2,Poco claro en algunos capítulos.,2021-03-18
+528,712-3-63-061937-4,227,3,Tiene puntos interesantes pero no destaca.,2024-03-17
+529,464-8-20-987284-2,404,1,No vale la pena leerlo.,2022-09-21
+530,979-9-07-075504-0,509,5,"Excelente libro, lo recomiendo totalmente.",2020-06-17
+531,869-6-11-084039-5,746,4,"Buena historia, bien desarrollada.",2020-10-09
+532,671-9-79-697816-8,550,1,De los peores libros que he leído.,2025-06-30
+533,622-0-72-239594-7,644,3,"Pasable, lectura ligera.",2021-09-18
+534,858-4-77-023928-7,381,5,"Magnífico, superó mis expectativas.",2025-06-03
+535,687-2-61-173702-6,647,5,"Magnífico, superó mis expectativas.",2023-08-13
+536,350-2-76-749064-5,289,3,"Pasable, lectura ligera.",2022-09-25
+537,601-8-11-703280-1,784,5,De lo mejor que he leído últimamente.,2023-10-09
+538,428-4-34-795527-8,707,3,"Regular, algunas partes aburridas.",2025-06-20
+539,687-8-51-856905-0,564,3,"Correcto, aunque esperaba más profundidad.",2023-02-19
+540,118-0-82-938074-9,483,5,"Excelente libro, lo recomiendo totalmente.",2025-10-17
+541,991-5-30-445002-8,288,2,"No lo recomendaría, bastante predecible.",2025-06-24
+542,730-8-72-403648-4,447,4,"Cumple lo que promete, recomendable.",2025-01-09
+543,906-2-34-456557-8,296,3,"Regular, algunas partes aburridas.",2024-07-14
+544,129-2-36-139123-4,514,5,"Magnífico, superó mis expectativas.",2025-04-22
+545,437-8-14-119587-6,744,3,"Pasable, lectura ligera.",2023-09-16
+546,247-6-86-707167-1,665,3,"Correcto, aunque esperaba más profundidad.",2022-10-26
+547,465-4-26-836843-1,324,2,Poco claro en algunos capítulos.,2021-05-04
+548,135-2-42-816945-6,390,2,No me convenció la trama.,2025-06-06
+549,132-4-52-756719-8,738,5,"Magnífico, superó mis expectativas.",2021-02-15
+550,307-9-68-590964-6,504,2,Poco claro en algunos capítulos.,2022-01-04
+551,235-7-37-421420-4,215,5,"Una lectura imprescindible, muy bien escrito.",2023-01-28
+552,114-1-52-085076-4,256,5,"Magnífico, superó mis expectativas.",2021-06-01
+553,861-6-90-085347-3,306,1,No vale la pena leerlo.,2023-03-10
+554,470-9-31-957996-7,691,4,"Buena historia, bien desarrollada.",2022-01-25
+555,268-3-15-893571-4,459,4,"Muy bueno, aunque esperaba un poco más.",2020-09-24
+556,522-6-41-246552-6,704,1,No vale la pena leerlo.,2020-08-07
+557,169-2-32-737989-2,353,5,"Magnífico, superó mis expectativas.",2020-12-14
+558,407-7-51-306109-1,322,5,De lo mejor que he leído últimamente.,2022-07-13
+559,841-0-69-777532-7,590,4,"Cumple lo que promete, recomendable.",2023-05-02
+560,335-9-69-007055-6,640,3,Tiene puntos interesantes pero no destaca.,2020-09-03
+561,629-2-87-504532-1,302,2,No me convenció la trama.,2022-12-19
+562,158-3-50-344694-4,361,2,No me convenció la trama.,2020-11-03
+563,356-7-07-897755-1,203,4,"Cumple lo que promete, recomendable.",2025-04-08
+564,295-9-86-777055-8,234,2,Poco claro en algunos capítulos.,2023-03-04
+565,392-8-40-347696-3,273,2,Poco claro en algunos capítulos.,2022-03-21
+566,961-2-65-088997-6,318,5,"Una lectura imprescindible, muy bien escrito.",2021-09-02
+567,517-5-73-518517-1,346,1,"Muy malo, una pérdida de tiempo.",2021-11-10
+568,791-4-65-951120-2,783,3,"Pasable, lectura ligera.",2021-05-24
+569,531-1-69-515223-9,512,4,"Buena historia, bien desarrollada.",2025-08-11
+570,172-9-52-186678-8,706,4,"Muy bueno, aunque esperaba un poco más.",2020-06-12
+571,956-5-15-822309-7,531,5,"Magnífico, superó mis expectativas.",2020-04-15
+572,184-8-19-737418-9,435,5,"Simplemente perfecto, gran autor.",2020-03-25
+573,249-6-01-709217-2,791,1,"No me gustó nada, mal escrito.",2025-04-11
+574,873-3-58-058299-5,653,3,"Regular, algunas partes aburridas.",2024-11-20
+575,704-1-90-241617-2,294,4,"Buena historia, bien desarrollada.",2024-07-30
+576,394-4-28-054009-2,529,1,"No me gustó nada, mal escrito.",2023-09-12
+577,664-8-14-313740-1,708,3,"Pasable, lectura ligera.",2020-05-30
+578,602-3-52-179211-1,291,3,"Correcto, aunque esperaba más profundidad.",2023-08-17
+579,699-6-48-997184-6,614,5,"Excelente libro, lo recomiendo totalmente.",2025-03-07
+580,962-5-21-653897-3,256,2,"Demasiado simple, le falta desarrollo.",2024-01-21
+581,586-2-34-223422-3,653,1,"No me gustó nada, mal escrito.",2022-12-29
+582,481-8-73-178529-7,335,3,"Pasable, lectura ligera.",2025-06-08
+583,983-5-84-461777-7,230,5,"Una lectura imprescindible, muy bien escrito.",2021-10-10
+584,620-6-37-035595-3,765,1,No vale la pena leerlo.,2024-07-29
+585,484-5-39-862895-7,431,1,De los peores libros que he leído.,2021-04-26
+586,860-3-72-186003-2,711,3,Tiene puntos interesantes pero no destaca.,2023-01-24
+587,453-4-74-911608-2,695,4,Interesante y bien estructurado.,2025-02-13
+588,335-7-17-685384-6,349,4,Interesante y bien estructurado.,2025-09-12
+589,527-8-10-558000-9,272,3,"Pasable, lectura ligera.",2023-10-24
+590,507-5-76-449639-5,474,1,Confuso y aburrido.,2023-05-07
+591,207-2-79-999499-8,794,4,Interesante y bien estructurado.,2025-01-03
+592,142-0-37-569414-4,696,3,"Correcto, aunque esperaba más profundidad.",2024-03-25
+593,207-8-18-741465-9,530,2,No me convenció la trama.,2024-04-17
+594,333-1-88-384561-5,621,1,Confuso y aburrido.,2025-04-21
+595,976-7-62-135456-1,596,2,"No lo recomendaría, bastante predecible.",2020-05-31
+596,661-7-71-824989-4,715,5,"Magnífico, superó mis expectativas.",2021-02-15
+597,426-2-67-188926-1,303,5,De lo mejor que he leído últimamente.,2020-03-03
+598,384-5-72-026656-8,620,2,"Flojo, esperaba más del autor.",2025-04-07
+599,443-6-43-644432-7,547,5,De lo mejor que he leído últimamente.,2020-11-24
+600,788-6-17-327760-8,747,4,"Buena historia, bien desarrollada.",2025-06-21
+601,234-1-77-921170-8,237,5,"Excelente libro, lo recomiendo totalmente.",2022-08-19
+602,849-5-91-260920-5,433,1,De los peores libros que he leído.,2021-02-07
+603,900-4-04-769210-6,655,2,Poco claro en algunos capítulos.,2020-04-28
+604,820-8-29-737489-3,533,1,Confuso y aburrido.,2024-01-08
+605,392-0-31-867674-2,642,2,No me convenció la trama.,2024-08-14
+606,136-7-89-537928-4,385,2,No me convenció la trama.,2020-11-19
+607,625-9-72-237091-3,592,5,"Una lectura imprescindible, muy bien escrito.",2025-07-31
+608,456-0-69-559915-0,347,2,"No lo recomendaría, bastante predecible.",2022-11-06
+609,812-3-68-866088-4,462,1,De los peores libros que he leído.,2023-03-24
+610,962-9-42-649770-9,362,1,De los peores libros que he leído.,2023-11-16
+611,029-1-43-942074-7,507,4,"Buena historia, bien desarrollada.",2025-02-14
+612,217-9-59-282233-3,404,4,"Cumple lo que promete, recomendable.",2021-03-12
+613,641-8-04-460819-1,591,5,"Magnífico, superó mis expectativas.",2023-04-26
+614,816-1-15-566134-7,223,4,"Buena historia, bien desarrollada.",2020-02-03
+615,136-7-89-537928-4,251,5,De lo mejor que he leído últimamente.,2023-03-18
+616,206-3-17-552977-4,561,2,No me convenció la trama.,2022-10-23
+617,203-1-36-955286-0,300,1,Confuso y aburrido.,2024-12-10
+618,845-7-62-055543-4,794,3,"Regular, algunas partes aburridas.",2021-01-04
+619,208-0-24-104150-3,535,4,Interesante y bien estructurado.,2022-04-02
+620,759-5-00-260151-3,753,3,Tiene puntos interesantes pero no destaca.,2025-08-17
+621,374-8-52-512258-2,369,3,"Pasable, lectura ligera.",2023-04-23
+622,027-2-92-942863-4,318,4,"Muy bueno, aunque esperaba un poco más.",2021-07-30
+623,037-2-71-862447-3,607,5,"Magnífico, superó mis expectativas.",2021-01-04
+624,989-5-11-139977-5,215,3,Tiene puntos interesantes pero no destaca.,2021-05-21
+625,602-3-52-179211-1,578,3,Tiene puntos interesantes pero no destaca.,2024-04-09
+626,776-0-12-316257-5,311,2,"No lo recomendaría, bastante predecible.",2020-04-12
+627,293-8-62-918793-3,536,5,"Una lectura imprescindible, muy bien escrito.",2020-09-15
+628,834-1-08-075095-2,510,4,"Muy bueno, aunque esperaba un poco más.",2021-07-26
+629,255-9-05-616556-3,239,3,"Pasable, lectura ligera.",2021-04-20
+630,483-7-44-171581-3,441,5,"Una lectura imprescindible, muy bien escrito.",2024-05-10
+631,983-2-43-595133-3,580,5,De lo mejor que he leído últimamente.,2021-09-24
+632,211-1-52-927099-2,302,4,"Buen libro, aunque con algunos altibajos.",2024-07-29
+633,506-8-09-838319-6,234,3,"Regular, algunas partes aburridas.",2024-12-21
+634,069-0-43-987888-4,442,3,"Está bien, pero no me atrapó del todo.",2024-02-13
+635,550-2-62-599143-5,568,1,De los peores libros que he leído.,2023-02-04
+636,554-5-14-609193-2,326,4,"Muy bueno, aunque esperaba un poco más.",2022-05-18
+637,275-9-65-598769-0,222,1,Confuso y aburrido.,2022-09-24
+638,991-6-09-114131-1,779,2,"Flojo, esperaba más del autor.",2022-04-28
+639,813-3-52-954005-3,422,2,Poco claro en algunos capítulos.,2021-08-27
+640,204-2-45-797273-6,203,3,"Regular, algunas partes aburridas.",2021-06-16
+641,972-4-81-870633-6,457,2,"Flojo, esperaba más del autor.",2020-04-15
+642,579-5-51-562392-3,216,3,"Regular, algunas partes aburridas.",2023-08-19
+643,965-6-52-341389-9,379,3,"Está bien, pero no me atrapó del todo.",2021-06-03
+644,781-2-07-962480-2,739,1,"Muy malo, una pérdida de tiempo.",2025-05-04
+645,493-4-74-303426-7,571,5,"Simplemente perfecto, gran autor.",2021-03-22
+646,279-2-90-469981-4,716,2,"Demasiado simple, le falta desarrollo.",2020-06-26
+647,426-8-90-175017-2,509,4,"Muy bueno, aunque esperaba un poco más.",2020-09-06
+648,225-8-48-190604-7,612,4,"Muy bueno, aunque esperaba un poco más.",2025-07-01
+649,432-1-97-924761-3,276,1,Confuso y aburrido.,2021-08-30
+650,900-1-85-132797-2,330,3,Tiene puntos interesantes pero no destaca.,2023-08-24
+651,984-2-00-326503-8,744,3,"Pasable, lectura ligera.",2025-09-01
+652,970-4-98-356327-9,641,1,"Muy malo, una pérdida de tiempo.",2022-05-30
+653,054-4-59-318131-4,663,2,"No lo recomendaría, bastante predecible.",2023-10-20
+654,246-7-19-306473-4,609,4,"Muy bueno, aunque esperaba un poco más.",2023-07-04
+655,037-5-14-164866-5,521,3,"Correcto, aunque esperaba más profundidad.",2021-09-17
+656,363-9-15-965866-3,269,1,"Muy malo, una pérdida de tiempo.",2021-01-16
+657,549-1-14-065476-8,299,3,"Regular, algunas partes aburridas.",2020-09-02
+658,431-6-65-189994-5,776,5,"Magnífico, superó mis expectativas.",2021-05-15
+659,286-6-00-999749-3,563,4,"Muy bueno, aunque esperaba un poco más.",2023-03-24
+660,201-3-27-968559-3,520,3,"Está bien, pero no me atrapó del todo.",2025-09-09
+661,634-3-18-073920-4,359,4,Interesante y bien estructurado.,2021-03-19
+662,036-7-33-614247-8,770,3,"Está bien, pero no me atrapó del todo.",2023-02-15
+663,228-8-03-260297-5,432,4,"Buen libro, aunque con algunos altibajos.",2020-04-17
+664,987-0-37-844576-2,474,1,"No me gustó nada, mal escrito.",2023-01-24
+665,435-8-04-711800-1,548,3,"Está bien, pero no me atrapó del todo.",2022-01-13
+666,800-3-66-602000-1,780,4,"Muy bueno, aunque esperaba un poco más.",2021-08-04
+667,474-3-50-313650-5,294,5,"Una lectura imprescindible, muy bien escrito.",2024-03-20
+668,092-2-22-128816-9,665,3,"Regular, algunas partes aburridas.",2024-02-24
+669,547-3-88-084274-2,533,5,"Simplemente perfecto, gran autor.",2020-12-13
+670,033-9-93-788614-3,360,2,"Demasiado simple, le falta desarrollo.",2020-07-22
+671,767-5-48-138666-5,479,4,"Cumple lo que promete, recomendable.",2025-06-12
+672,633-0-34-584094-3,653,4,"Buena historia, bien desarrollada.",2022-06-01
+673,903-4-77-449958-7,317,3,"Pasable, lectura ligera.",2021-03-30
+674,668-4-80-316367-0,699,5,"Magnífico, superó mis expectativas.",2020-07-05
+675,265-4-34-759160-8,605,5,"Excelente libro, lo recomiendo totalmente.",2020-02-01
+676,796-7-14-803007-4,509,2,No me convenció la trama.,2022-11-12
+677,118-5-72-350194-8,536,1,"Muy malo, una pérdida de tiempo.",2025-07-30
+678,218-0-66-725279-5,380,2,"No lo recomendaría, bastante predecible.",2022-07-31
+679,760-7-90-466005-2,773,3,"Está bien, pero no me atrapó del todo.",2024-06-14
+680,927-4-52-380552-2,647,1,De los peores libros que he leído.,2020-11-14
+681,019-9-82-477075-3,790,4,"Buen libro, aunque con algunos altibajos.",2024-07-14
+682,285-4-43-052361-9,497,1,De los peores libros que he leído.,2020-03-26
+683,955-0-80-029069-5,376,5,De lo mejor que he leído últimamente.,2024-01-22
+684,740-3-34-450566-9,648,1,"No me gustó nada, mal escrito.",2024-11-19
+685,692-8-04-179588-1,611,5,"Excelente libro, lo recomiendo totalmente.",2024-06-09
+686,618-6-77-066721-7,548,2,Poco claro en algunos capítulos.,2021-11-19
+687,483-1-52-037710-7,723,1,No vale la pena leerlo.,2025-09-19
+688,741-9-25-814762-8,558,3,"Regular, algunas partes aburridas.",2022-08-25
+689,961-8-03-324260-4,350,3,"Regular, algunas partes aburridas.",2021-12-11
+690,791-9-49-235920-2,357,1,"No me gustó nada, mal escrito.",2025-07-16
+691,032-4-22-164532-2,778,5,De lo mejor que he leído últimamente.,2023-08-16
+692,100-9-97-844298-9,355,4,"Muy bueno, aunque esperaba un poco más.",2025-04-04
+693,642-3-82-235522-8,511,3,Tiene puntos interesantes pero no destaca.,2020-08-18
+694,257-8-52-352980-6,720,1,Confuso y aburrido.,2025-03-06
+695,279-2-90-469981-4,239,1,Confuso y aburrido.,2023-03-21
+696,876-9-98-426732-9,293,5,"Simplemente perfecto, gran autor.",2025-09-07
+697,499-6-10-779977-9,674,5,"Simplemente perfecto, gran autor.",2020-06-17
+698,416-4-60-715006-6,786,2,Poco claro en algunos capítulos.,2025-05-02
+699,256-9-51-251628-0,355,1,De los peores libros que he leído.,2021-02-27
+700,846-7-64-089779-7,287,5,"Una lectura imprescindible, muy bien escrito.",2020-06-09
+701,056-5-13-358508-9,649,4,"Buen libro, aunque con algunos altibajos.",2021-10-12
+702,040-5-27-703547-0,582,3,"Pasable, lectura ligera.",2024-08-01
+703,260-0-80-598018-7,254,3,"Está bien, pero no me atrapó del todo.",2023-09-12
+704,513-7-39-900631-5,772,4,"Buena historia, bien desarrollada.",2022-10-29
+705,558-4-91-282642-2,354,3,"Está bien, pero no me atrapó del todo.",2021-08-02
+706,334-5-12-982945-1,518,4,Interesante y bien estructurado.,2020-12-13
+707,044-4-14-429426-8,773,4,"Buena historia, bien desarrollada.",2021-06-07
+708,487-8-64-801051-6,296,4,"Buen libro, aunque con algunos altibajos.",2024-01-22
+709,348-0-39-652239-8,572,3,"Regular, algunas partes aburridas.",2022-05-27
+710,023-1-74-028106-4,698,2,No me convenció la trama.,2021-07-17
+711,913-9-52-150164-0,280,3,"Está bien, pero no me atrapó del todo.",2025-09-10
+712,023-2-58-699800-0,740,1,Confuso y aburrido.,2021-06-20
+713,710-6-23-591693-2,586,2,No me convenció la trama.,2022-01-10
+714,456-3-40-918580-9,649,1,De los peores libros que he leído.,2024-02-01
+715,456-6-98-398590-2,655,5,"Magnífico, superó mis expectativas.",2025-01-12
+716,968-8-59-342883-1,747,2,Poco claro en algunos capítulos.,2025-04-05
+717,863-9-94-541384-6,577,5,De lo mejor que he leído últimamente.,2025-03-06
+718,729-8-50-230506-5,592,5,"Simplemente perfecto, gran autor.",2024-09-10
+719,186-7-06-632016-4,405,5,"Una lectura imprescindible, muy bien escrito.",2022-10-21
+720,018-2-04-339718-4,693,3,Tiene puntos interesantes pero no destaca.,2021-02-24
+721,762-1-41-635021-8,328,3,"Está bien, pero no me atrapó del todo.",2021-10-18
+722,902-0-38-540700-4,661,5,"Una lectura imprescindible, muy bien escrito.",2024-11-26
+723,397-3-96-417899-3,428,4,"Buena historia, bien desarrollada.",2020-04-19
+724,211-1-52-927099-2,255,4,"Buen libro, aunque con algunos altibajos.",2024-03-11
+725,490-3-76-474769-2,596,1,Confuso y aburrido.,2022-07-08
+726,779-0-71-416335-3,527,1,Confuso y aburrido.,2021-08-21
+727,413-0-75-384185-1,240,3,"Pasable, lectura ligera.",2021-07-22
+728,043-8-93-531732-8,660,5,"Excelente libro, lo recomiendo totalmente.",2020-11-20
+729,267-6-58-617932-4,463,2,No me convenció la trama.,2024-09-29
+730,638-8-21-458414-6,496,2,Poco claro en algunos capítulos.,2021-05-14
+731,900-4-89-646528-9,445,4,"Buen libro, aunque con algunos altibajos.",2025-02-15
+732,446-8-34-146511-1,314,4,"Buen libro, aunque con algunos altibajos.",2020-03-08
+733,392-2-63-030783-0,789,2,No me convenció la trama.,2023-04-08
+734,687-6-19-075056-8,202,5,"Magnífico, superó mis expectativas.",2022-09-12
+735,207-6-43-593256-6,627,2,"Flojo, esperaba más del autor.",2024-01-17
+736,960-6-33-991297-0,739,5,"Simplemente perfecto, gran autor.",2025-09-10
+737,797-8-08-784178-2,221,4,"Cumple lo que promete, recomendable.",2020-06-27
+738,514-4-66-199541-3,583,3,"Está bien, pero no me atrapó del todo.",2024-01-02
+739,042-2-71-133228-5,554,2,"Flojo, esperaba más del autor.",2023-09-23
+740,457-5-98-875921-0,246,3,Tiene puntos interesantes pero no destaca.,2023-10-18
+741,454-6-15-749325-9,676,4,Interesante y bien estructurado.,2021-07-06
+742,685-3-89-097283-4,669,1,Confuso y aburrido.,2022-04-05
+743,075-4-52-798524-0,405,1,Confuso y aburrido.,2023-06-24
+744,946-1-25-798123-7,608,5,De lo mejor que he leído últimamente.,2022-11-03
+745,795-4-53-817921-5,396,3,"Correcto, aunque esperaba más profundidad.",2020-07-14
+746,434-9-54-121762-8,480,1,Confuso y aburrido.,2024-11-24
+747,985-1-65-228735-3,651,4,"Buena historia, bien desarrollada.",2022-02-04
+748,337-5-57-378513-3,710,3,Tiene puntos interesantes pero no destaca.,2022-12-28
+749,035-7-13-432406-0,635,1,De los peores libros que he leído.,2022-01-09
+750,501-7-75-917489-5,501,3,"Está bien, pero no me atrapó del todo.",2020-11-23
+751,488-1-05-039167-8,503,3,"Pasable, lectura ligera.",2024-10-11
+752,953-9-46-766262-5,655,3,"Pasable, lectura ligera.",2020-06-22
+753,056-8-25-832014-6,646,3,"Está bien, pero no me atrapó del todo.",2020-11-03
+754,192-9-08-338265-2,573,5,"Una lectura imprescindible, muy bien escrito.",2020-05-07
+755,644-2-00-629877-9,649,1,"No me gustó nada, mal escrito.",2020-10-02
+756,352-8-66-013855-2,576,3,"Pasable, lectura ligera.",2020-05-12
+757,466-6-05-226124-8,358,4,"Buena historia, bien desarrollada.",2024-03-03
+758,370-4-50-386072-3,279,5,"Una lectura imprescindible, muy bien escrito.",2024-02-12
+759,918-3-86-488362-8,522,3,"Regular, algunas partes aburridas.",2021-04-09
+760,256-3-94-278816-3,391,4,"Buen libro, aunque con algunos altibajos.",2024-05-04
+761,785-4-07-945393-8,321,3,"Correcto, aunque esperaba más profundidad.",2025-01-01
+762,831-0-31-456457-3,493,4,Interesante y bien estructurado.,2021-05-17
+763,986-1-63-421254-9,276,4,Interesante y bien estructurado.,2024-12-28
+764,252-3-62-292587-5,528,3,"Está bien, pero no me atrapó del todo.",2023-04-04
+765,774-1-49-057175-7,362,2,Poco claro en algunos capítulos.,2025-09-14
+766,571-7-49-058496-9,325,2,No me convenció la trama.,2022-08-27
+767,727-6-04-128177-4,227,3,Tiene puntos interesantes pero no destaca.,2024-02-20
+768,795-1-96-245240-2,765,2,"Demasiado simple, le falta desarrollo.",2020-12-19
+769,900-1-85-132797-2,517,4,"Cumple lo que promete, recomendable.",2024-08-09
+770,414-5-28-784759-0,789,1,"No me gustó nada, mal escrito.",2023-07-22
+771,087-6-01-467238-6,661,4,"Buen libro, aunque con algunos altibajos.",2023-11-12
+772,882-4-93-534001-5,765,5,"Una lectura imprescindible, muy bien escrito.",2021-06-12
+773,987-4-05-419199-8,715,1,"Muy malo, una pérdida de tiempo.",2025-10-23
+774,573-4-72-435861-5,512,2,No me convenció la trama.,2023-08-14
+775,659-4-80-531602-1,555,5,"Magnífico, superó mis expectativas.",2020-11-19
+776,674-8-67-358182-5,402,5,"Magnífico, superó mis expectativas.",2021-05-27
+777,075-3-50-246948-5,747,1,No vale la pena leerlo.,2021-11-21
+778,497-9-05-735805-0,795,2,No me convenció la trama.,2023-10-14
+779,001-9-90-739488-4,243,1,"Muy malo, una pérdida de tiempo.",2020-07-05
+780,968-2-29-833691-0,472,2,"Demasiado simple, le falta desarrollo.",2024-09-02
+781,144-2-70-312073-6,710,5,"Magnífico, superó mis expectativas.",2023-05-22
+782,690-7-00-960896-8,451,4,"Buena historia, bien desarrollada.",2025-01-31
+783,148-7-82-455696-5,262,2,"No lo recomendaría, bastante predecible.",2024-08-29
+784,894-3-38-053634-4,676,2,Poco claro en algunos capítulos.,2021-08-11
+785,187-9-89-763302-3,527,3,"Pasable, lectura ligera.",2021-06-19
+786,085-8-37-558263-4,728,5,"Excelente libro, lo recomiendo totalmente.",2023-07-31
+787,549-1-77-326096-1,678,1,Confuso y aburrido.,2025-01-15
+788,876-6-32-790423-1,345,1,"Muy malo, una pérdida de tiempo.",2023-04-03
+789,476-3-98-572685-8,629,2,No me convenció la trama.,2023-09-03
+790,019-2-49-074882-8,521,2,No me convenció la trama.,2025-08-02
+791,074-6-86-386461-7,679,4,"Buena historia, bien desarrollada.",2025-07-30
+792,779-7-17-751701-3,293,4,"Buen libro, aunque con algunos altibajos.",2025-02-15
+793,594-2-19-379313-8,421,5,"Magnífico, superó mis expectativas.",2020-07-18
+794,821-4-56-532863-5,489,4,"Buen libro, aunque con algunos altibajos.",2025-04-11
+795,502-6-13-409731-5,750,1,"Muy malo, una pérdida de tiempo.",2024-10-31
+796,897-2-84-540182-8,471,3,"Pasable, lectura ligera.",2024-02-07
+797,897-7-82-806479-3,611,1,No vale la pena leerlo.,2022-03-08
+798,674-6-16-160543-5,767,3,"Está bien, pero no me atrapó del todo.",2024-05-01
+799,714-8-91-255291-0,662,5,"Magnífico, superó mis expectativas.",2021-05-01
+800,699-9-69-882904-5,300,4,"Buena historia, bien desarrollada.",2023-10-20
+801,396-7-07-106011-1,575,2,No me convenció la trama.,2025-09-16
+802,626-4-65-889987-2,713,1,"Muy malo, una pérdida de tiempo.",2020-06-08
+803,573-5-32-366185-4,542,4,"Buen libro, aunque con algunos altibajos.",2025-02-14
+804,135-8-72-717430-6,728,2,Poco claro en algunos capítulos.,2023-07-28
+805,958-7-30-549824-0,603,5,"Magnífico, superó mis expectativas.",2023-10-09
+806,810-6-59-503632-4,722,5,De lo mejor que he leído últimamente.,2023-05-12
+807,848-6-18-174575-6,218,3,"Correcto, aunque esperaba más profundidad.",2021-03-24
+808,014-4-63-384554-3,798,3,"Está bien, pero no me atrapó del todo.",2025-04-27
+809,344-6-33-246568-6,793,5,"Una lectura imprescindible, muy bien escrito.",2020-07-29
+810,867-6-84-441219-8,692,2,"Demasiado simple, le falta desarrollo.",2024-04-06
+811,335-1-58-807053-2,449,1,No vale la pena leerlo.,2021-03-26
+812,771-1-50-629179-5,220,4,"Buena historia, bien desarrollada.",2024-09-11
+813,205-5-03-300008-2,623,2,"No lo recomendaría, bastante predecible.",2025-08-17
+814,421-2-06-605808-6,264,2,"Demasiado simple, le falta desarrollo.",2022-04-29
+815,044-2-81-645808-6,533,4,"Buen libro, aunque con algunos altibajos.",2024-03-23
+816,743-0-87-803782-3,378,4,"Buen libro, aunque con algunos altibajos.",2023-11-03
+817,528-1-34-978575-8,563,3,Tiene puntos interesantes pero no destaca.,2025-06-06
+818,138-8-74-022346-0,453,3,Tiene puntos interesantes pero no destaca.,2023-05-07
+819,937-1-78-472146-9,505,3,"Regular, algunas partes aburridas.",2025-06-25
+820,996-3-69-184544-6,692,3,Tiene puntos interesantes pero no destaca.,2023-01-25
+821,072-4-87-641261-2,325,5,"Simplemente perfecto, gran autor.",2024-04-04
+822,989-5-11-139977-5,554,2,Poco claro en algunos capítulos.,2020-06-21
+823,896-4-16-450862-3,281,3,"Pasable, lectura ligera.",2022-11-16
+824,564-9-71-729126-1,420,2,"Demasiado simple, le falta desarrollo.",2023-01-15
+825,372-8-73-576856-5,479,2,"Flojo, esperaba más del autor.",2022-09-07
+826,329-1-36-964804-1,252,5,"Una lectura imprescindible, muy bien escrito.",2022-08-11
+827,033-9-93-788614-3,303,4,"Buena historia, bien desarrollada.",2025-04-18
+828,900-4-04-769210-6,341,1,No vale la pena leerlo.,2021-10-08
+829,295-5-76-930888-2,688,4,Interesante y bien estructurado.,2023-03-22
+830,804-8-29-407828-4,493,1,"Muy malo, una pérdida de tiempo.",2022-08-09
+831,274-9-91-438397-4,239,2,"No lo recomendaría, bastante predecible.",2021-12-21
+832,098-8-13-858542-5,607,4,Interesante y bien estructurado.,2023-03-31
+833,851-4-03-696566-7,210,3,Tiene puntos interesantes pero no destaca.,2021-03-15
+834,479-8-01-170564-4,492,4,"Buen libro, aunque con algunos altibajos.",2025-07-16
+835,116-5-99-302020-2,717,4,"Buena historia, bien desarrollada.",2022-02-28
+836,208-2-83-230898-9,539,2,"No lo recomendaría, bastante predecible.",2022-11-19
+837,475-9-78-335488-1,215,3,"Correcto, aunque esperaba más profundidad.",2022-03-02
+838,436-7-86-210781-7,616,4,"Buen libro, aunque con algunos altibajos.",2023-09-05
+839,588-6-79-252985-2,611,1,"No me gustó nada, mal escrito.",2021-07-29
+840,938-5-55-079320-8,532,2,"Flojo, esperaba más del autor.",2022-12-04
+841,266-2-81-076777-1,442,4,"Buena historia, bien desarrollada.",2023-09-12
+842,954-0-62-789088-8,797,5,"Excelente libro, lo recomiendo totalmente.",2022-12-07
+843,246-4-56-048511-6,442,1,"Muy malo, una pérdida de tiempo.",2025-03-21
+844,036-6-98-027644-7,364,4,"Buen libro, aunque con algunos altibajos.",2023-06-27
+845,617-8-17-032119-6,503,3,Tiene puntos interesantes pero no destaca.,2022-06-23
+846,523-2-28-058837-3,337,4,Interesante y bien estructurado.,2025-02-06
+847,349-4-59-053754-6,583,4,"Buen libro, aunque con algunos altibajos.",2025-04-12
+848,845-7-36-253034-8,424,2,"Demasiado simple, le falta desarrollo.",2020-12-01
+849,880-2-72-099352-3,658,5,"Magnífico, superó mis expectativas.",2020-11-15
+850,386-8-22-672356-4,315,1,No vale la pena leerlo.,2025-09-01
+851,627-2-05-364991-6,787,5,"Una lectura imprescindible, muy bien escrito.",2021-11-04
+852,939-8-59-308227-7,733,4,"Muy bueno, aunque esperaba un poco más.",2022-04-21
+853,456-0-69-559915-0,701,1,No vale la pena leerlo.,2024-12-29
+854,254-8-12-147853-0,665,2,"Demasiado simple, le falta desarrollo.",2024-08-28
+855,450-5-29-653704-0,778,1,No vale la pena leerlo.,2025-03-08
+856,287-7-47-869104-1,223,4,"Buena historia, bien desarrollada.",2020-01-13
+857,423-3-00-805630-4,793,1,"Muy malo, una pérdida de tiempo.",2024-10-01
+858,186-9-48-467475-1,266,5,"Excelente libro, lo recomiendo totalmente.",2020-10-09
+859,195-2-61-718670-9,233,3,"Pasable, lectura ligera.",2022-01-07
+860,430-3-11-587605-5,631,3,"Pasable, lectura ligera.",2025-01-11
+861,910-5-48-256273-0,585,1,No vale la pena leerlo.,2021-06-28
+862,299-9-07-619181-2,322,2,"Demasiado simple, le falta desarrollo.",2024-05-28
+863,205-9-35-415723-4,331,2,"Flojo, esperaba más del autor.",2020-04-03
+864,368-1-68-214073-3,675,5,De lo mejor que he leído últimamente.,2024-04-02
+865,587-4-48-883923-1,454,4,"Buena historia, bien desarrollada.",2021-09-27
+866,017-6-31-919863-6,394,1,"Muy malo, una pérdida de tiempo.",2024-09-13
+867,221-8-90-927532-2,447,2,"Flojo, esperaba más del autor.",2021-02-17
+868,278-3-32-859683-4,235,4,"Buen libro, aunque con algunos altibajos.",2020-07-18
+869,826-4-29-518525-1,246,4,"Cumple lo que promete, recomendable.",2022-08-17
+870,023-2-58-699800-0,423,1,"No me gustó nada, mal escrito.",2025-08-25
+871,392-8-53-202546-9,440,5,"Magnífico, superó mis expectativas.",2023-08-06
+872,118-6-01-811239-9,510,2,"Demasiado simple, le falta desarrollo.",2022-06-24
+873,581-1-24-507783-3,508,3,"Está bien, pero no me atrapó del todo.",2021-12-18
+874,970-5-94-459914-6,770,4,"Muy bueno, aunque esperaba un poco más.",2023-11-11
+875,610-8-49-297045-1,738,3,"Pasable, lectura ligera.",2024-07-30
+876,336-4-77-041309-3,508,4,Interesante y bien estructurado.,2025-04-23
+877,749-1-95-380884-4,431,3,"Regular, algunas partes aburridas.",2025-03-11
+878,313-1-22-068155-1,776,4,"Cumple lo que promete, recomendable.",2021-07-03
+879,145-1-49-514955-9,449,3,"Regular, algunas partes aburridas.",2023-09-14
+880,853-8-00-329633-2,661,3,"Está bien, pero no me atrapó del todo.",2022-02-19
+881,622-8-27-728813-4,475,4,"Buen libro, aunque con algunos altibajos.",2020-06-10
+882,714-8-02-632570-7,393,5,"Simplemente perfecto, gran autor.",2022-06-07
+883,951-9-74-395044-8,414,3,"Correcto, aunque esperaba más profundidad.",2020-03-03
+884,336-0-80-901014-1,395,1,De los peores libros que he leído.,2022-09-20
+885,598-9-60-993947-6,410,4,Interesante y bien estructurado.,2023-08-10
+886,047-4-12-081803-4,590,4,"Buen libro, aunque con algunos altibajos.",2024-01-11
+887,071-9-12-943370-4,468,3,Tiene puntos interesantes pero no destaca.,2025-07-29
+888,272-8-28-815659-9,301,4,"Buena historia, bien desarrollada.",2022-04-12
+889,088-5-89-981811-6,521,4,"Muy bueno, aunque esperaba un poco más.",2022-06-25
+890,772-6-48-839585-0,217,3,Tiene puntos interesantes pero no destaca.,2024-09-06
+891,816-1-15-566134-7,357,2,Poco claro en algunos capítulos.,2022-07-31
+892,982-1-25-588774-8,784,2,"No lo recomendaría, bastante predecible.",2023-10-14
+893,565-1-81-275917-1,701,4,"Cumple lo que promete, recomendable.",2021-11-20
+894,719-0-70-677693-4,374,2,"Demasiado simple, le falta desarrollo.",2025-06-23
+895,494-6-92-085649-4,756,1,No vale la pena leerlo.,2020-05-18
+896,232-8-83-774419-4,250,1,De los peores libros que he leído.,2021-07-17
+897,459-2-35-163832-3,270,2,"Flojo, esperaba más del autor.",2022-06-14
+898,073-6-13-204063-7,667,3,"Está bien, pero no me atrapó del todo.",2025-06-02
+899,536-0-04-545794-4,217,1,No vale la pena leerlo.,2024-08-11
+900,750-9-97-700886-4,218,5,"Magnífico, superó mis expectativas.",2023-03-20
+901,702-4-10-386571-0,715,4,Interesante y bien estructurado.,2021-03-14
+902,051-5-53-234159-5,737,2,No me convenció la trama.,2022-02-25
+903,487-8-64-801051-6,459,3,"Correcto, aunque esperaba más profundidad.",2024-06-13
+904,853-8-00-329633-2,583,4,"Cumple lo que promete, recomendable.",2022-09-23
+905,858-6-63-565418-1,508,1,"Muy malo, una pérdida de tiempo.",2021-01-17
+906,875-6-34-491088-9,589,4,"Buen libro, aunque con algunos altibajos.",2025-05-03
+907,333-7-38-987751-8,210,2,"Flojo, esperaba más del autor.",2025-08-09
+908,532-4-97-539303-1,540,5,"Excelente libro, lo recomiendo totalmente.",2020-06-23
+909,858-2-58-545513-7,417,5,De lo mejor que he leído últimamente.,2023-01-15
+910,363-2-12-347649-2,277,3,Tiene puntos interesantes pero no destaca.,2020-05-14
+911,700-1-44-130686-0,523,1,"No me gustó nada, mal escrito.",2021-08-13
+912,978-8-14-124527-6,279,3,"Regular, algunas partes aburridas.",2022-09-11
+913,356-7-94-154094-3,599,5,"Magnífico, superó mis expectativas.",2024-04-21
+914,861-9-93-145843-3,281,5,"Magnífico, superó mis expectativas.",2020-08-07
+915,113-2-53-269496-5,648,2,"Flojo, esperaba más del autor.",2023-10-27
+916,064-0-91-917066-3,607,3,"Está bien, pero no me atrapó del todo.",2023-01-24
+917,213-0-50-963994-9,703,2,Poco claro en algunos capítulos.,2024-03-17
+918,549-1-14-065476-8,391,5,De lo mejor que he leído últimamente.,2020-12-17
+919,045-8-40-892270-5,453,1,"Muy malo, una pérdida de tiempo.",2023-01-02
+920,860-1-62-590841-6,590,2,"No lo recomendaría, bastante predecible.",2023-07-21
+921,618-0-98-098804-9,310,1,"Muy malo, una pérdida de tiempo.",2023-06-16
+922,602-6-90-959405-5,569,3,"Está bien, pero no me atrapó del todo.",2021-06-26
+923,318-9-39-749096-4,392,4,"Cumple lo que promete, recomendable.",2025-09-29
+924,019-1-65-364706-0,306,1,"Muy malo, una pérdida de tiempo.",2023-12-20
+925,394-9-95-720203-7,296,5,"Simplemente perfecto, gran autor.",2023-08-21
+926,056-9-51-063611-1,213,3,"Pasable, lectura ligera.",2024-05-07
+927,701-5-50-291681-3,773,2,"Demasiado simple, le falta desarrollo.",2021-11-25
+928,795-7-97-114917-3,374,2,Poco claro en algunos capítulos.,2023-05-18
+929,629-0-25-153864-1,705,2,"Flojo, esperaba más del autor.",2021-11-15
+930,201-3-37-045740-2,483,4,"Buena historia, bien desarrollada.",2025-06-06
+931,707-0-57-836091-5,570,3,"Regular, algunas partes aburridas.",2025-07-23
+932,697-3-60-630179-3,401,4,"Muy bueno, aunque esperaba un poco más.",2021-07-08
+933,201-6-75-993001-5,207,4,"Buena historia, bien desarrollada.",2024-04-05
+934,942-5-01-657555-6,651,3,"Pasable, lectura ligera.",2021-07-11
+935,034-0-11-761706-8,529,5,"Una lectura imprescindible, muy bien escrito.",2025-05-16
+936,597-6-62-084078-2,382,4,"Buena historia, bien desarrollada.",2023-04-08
+937,444-3-94-469266-9,790,2,Poco claro en algunos capítulos.,2024-03-20
+938,941-2-32-806253-9,603,3,"Está bien, pero no me atrapó del todo.",2022-03-29
+939,813-0-12-170994-9,759,2,"Demasiado simple, le falta desarrollo.",2020-04-20
+940,374-5-08-830682-4,415,4,"Buena historia, bien desarrollada.",2020-10-10
+941,409-4-14-771682-1,712,2,Poco claro en algunos capítulos.,2022-09-18
+942,541-3-33-665028-6,358,4,"Cumple lo que promete, recomendable.",2020-10-29
+943,302-3-27-639169-3,691,5,De lo mejor que he leído últimamente.,2025-09-06
+944,330-9-94-791415-7,757,1,Confuso y aburrido.,2020-12-14
+945,056-6-18-632397-0,455,3,"Regular, algunas partes aburridas.",2020-06-30
+946,711-3-83-514635-5,610,3,"Pasable, lectura ligera.",2021-03-09
+947,656-7-66-182512-9,301,3,"Regular, algunas partes aburridas.",2025-09-22
+948,049-1-93-187323-6,772,5,"Simplemente perfecto, gran autor.",2022-06-24
+949,312-8-68-667756-3,584,4,"Cumple lo que promete, recomendable.",2025-08-11
+950,327-6-17-948024-1,554,1,De los peores libros que he leído.,2021-03-04
+951,565-8-03-638364-9,626,1,"Muy malo, una pérdida de tiempo.",2021-08-03
+952,781-0-10-320823-3,520,3,"Pasable, lectura ligera.",2022-04-27
+953,200-8-58-752193-0,695,3,"Pasable, lectura ligera.",2021-02-03
+954,481-5-98-826874-0,664,3,"Está bien, pero no me atrapó del todo.",2023-05-14
+955,499-4-65-796784-6,318,1,Confuso y aburrido.,2021-03-23
+956,931-5-39-839122-9,450,5,"Una lectura imprescindible, muy bien escrito.",2021-10-17
+957,886-8-99-690878-4,774,4,"Cumple lo que promete, recomendable.",2022-08-07
+958,896-9-18-617568-6,389,2,"No lo recomendaría, bastante predecible.",2024-06-08
+959,998-2-45-587716-5,403,4,"Buen libro, aunque con algunos altibajos.",2024-10-25
+960,272-2-37-369504-8,205,2,No me convenció la trama.,2023-02-14
+961,594-8-49-102562-9,792,1,No vale la pena leerlo.,2022-02-04
+962,870-3-22-177599-4,534,2,"No lo recomendaría, bastante predecible.",2021-04-11
+963,771-5-41-766045-9,702,5,"Magnífico, superó mis expectativas.",2024-05-10
+964,911-7-53-317025-2,317,3,"Correcto, aunque esperaba más profundidad.",2025-02-18
+965,123-9-61-219051-2,505,5,"Simplemente perfecto, gran autor.",2020-12-13
+966,897-2-84-540182-8,521,1,"No me gustó nada, mal escrito.",2023-06-04
+967,205-3-44-077794-8,388,3,"Regular, algunas partes aburridas.",2025-09-23
+968,072-9-66-180843-4,629,5,"Una lectura imprescindible, muy bien escrito.",2024-04-20
+969,717-4-06-686799-0,391,4,"Buen libro, aunque con algunos altibajos.",2021-12-10
+970,016-6-41-509957-9,371,4,"Buena historia, bien desarrollada.",2021-07-28
+971,766-1-36-628081-4,523,4,"Buen libro, aunque con algunos altibajos.",2020-08-07
+972,775-0-44-806324-4,210,4,Interesante y bien estructurado.,2022-03-10
+973,849-1-98-661329-2,776,5,De lo mejor que he leído últimamente.,2024-08-02
+974,704-1-90-241617-2,626,4,"Cumple lo que promete, recomendable.",2021-11-16
+975,334-3-24-474175-7,779,1,"No me gustó nada, mal escrito.",2023-04-11
+976,622-7-83-769389-0,482,2,"Demasiado simple, le falta desarrollo.",2023-03-28
+977,183-3-59-748768-3,669,5,De lo mejor que he leído últimamente.,2025-09-23
+978,905-6-70-867009-1,787,1,Confuso y aburrido.,2024-02-11
+979,140-6-92-600542-3,243,4,"Buen libro, aunque con algunos altibajos.",2022-06-14
+980,961-2-65-088997-6,305,2,Poco claro en algunos capítulos.,2020-05-12
+981,416-4-60-715006-6,470,3,"Está bien, pero no me atrapó del todo.",2024-12-03
+982,617-8-17-032119-6,443,2,"Demasiado simple, le falta desarrollo.",2023-12-07
+983,365-1-95-654560-1,639,2,"Demasiado simple, le falta desarrollo.",2021-07-24
+984,677-6-00-643459-3,412,1,No vale la pena leerlo.,2023-12-07
+985,328-4-56-889322-0,488,5,"Simplemente perfecto, gran autor.",2021-11-20
+986,461-7-30-515133-5,500,3,Tiene puntos interesantes pero no destaca.,2022-12-31
+987,048-9-88-336281-6,298,2,"No lo recomendaría, bastante predecible.",2020-08-30
+988,593-6-01-941270-9,330,2,No me convenció la trama.,2021-08-22
+989,838-2-92-162986-0,454,4,"Cumple lo que promete, recomendable.",2021-08-05
+990,399-6-66-290913-3,476,4,"Cumple lo que promete, recomendable.",2025-01-25
+991,908-1-97-400564-3,296,4,"Buen libro, aunque con algunos altibajos.",2023-02-13
+992,170-1-83-137743-7,666,4,"Buena historia, bien desarrollada.",2020-01-11
+993,484-5-39-862895-7,670,3,"Está bien, pero no me atrapó del todo.",2024-06-17
+994,117-3-67-038625-1,640,2,"No lo recomendaría, bastante predecible.",2023-01-04
+995,747-2-91-311265-2,491,3,Tiene puntos interesantes pero no destaca.,2021-06-18
+996,248-1-72-971311-8,697,3,"Está bien, pero no me atrapó del todo.",2020-07-07
+997,802-7-11-221823-1,671,1,"Muy malo, una pérdida de tiempo.",2021-10-09
+998,207-9-07-798861-8,668,1,De los peores libros que he leído.,2022-04-08
+999,074-0-91-311178-2,510,2,Poco claro en algunos capítulos.,2021-01-17
+1000,727-9-39-226894-4,457,1,Confuso y aburrido.,2021-11-08
+1001,960-4-43-270185-9,606,3,"Regular, algunas partes aburridas.",2024-10-24
+1002,933-5-13-426192-0,298,1,"No me gustó nada, mal escrito.",2025-05-07
+1003,445-5-11-668297-2,336,5,"Una lectura imprescindible, muy bien escrito.",2025-10-28
+1004,677-0-52-979253-6,210,1,Confuso y aburrido.,2021-05-08
+1005,341-6-63-826775-8,336,4,"Muy bueno, aunque esperaba un poco más.",2022-07-26
+1006,641-7-93-996979-9,292,1,"Muy malo, una pérdida de tiempo.",2023-07-07
+1007,596-1-97-400597-0,507,2,"No lo recomendaría, bastante predecible.",2021-06-29
+1008,664-6-41-962342-9,271,5,"Simplemente perfecto, gran autor.",2020-02-04
+1009,365-1-95-654560-1,369,4,"Buena historia, bien desarrollada.",2022-05-22
+1010,205-5-03-300008-2,622,5,De lo mejor que he leído últimamente.,2022-06-08
+1011,588-6-79-252985-2,303,2,"Flojo, esperaba más del autor.",2024-04-21
+1012,737-8-15-616217-4,640,3,"Regular, algunas partes aburridas.",2022-10-11
+1013,361-6-57-652822-9,287,2,"Demasiado simple, le falta desarrollo.",2023-03-13
+1014,842-5-79-913662-4,509,2,"Demasiado simple, le falta desarrollo.",2025-09-18
+1015,674-0-68-735445-7,602,3,"Está bien, pero no me atrapó del todo.",2022-09-07
+1016,054-6-49-859017-8,596,1,"No me gustó nada, mal escrito.",2025-08-08
+1017,278-3-32-859683-4,273,5,"Excelente libro, lo recomiendo totalmente.",2024-01-19
+1018,708-0-63-139594-5,336,4,"Buen libro, aunque con algunos altibajos.",2024-09-19
+1019,728-6-93-953910-8,760,2,"No lo recomendaría, bastante predecible.",2020-10-25
+1020,138-0-00-307562-5,270,1,Confuso y aburrido.,2022-06-02
+1021,790-3-20-204179-2,262,4,"Buen libro, aunque con algunos altibajos.",2023-03-19
+1022,060-8-12-570602-1,626,4,"Cumple lo que promete, recomendable.",2020-12-03
+1023,872-1-91-630916-3,751,5,"Una lectura imprescindible, muy bien escrito.",2023-02-10
+1024,850-7-25-178637-7,518,1,No vale la pena leerlo.,2022-04-12
+1025,864-6-33-953481-0,750,3,"Pasable, lectura ligera.",2020-09-27
+1026,760-1-75-180077-7,648,2,"Flojo, esperaba más del autor.",2022-09-28
+1027,046-0-56-876112-4,645,1,De los peores libros que he leído.,2020-08-13
+1028,054-8-56-257504-3,380,1,"Muy malo, una pérdida de tiempo.",2021-07-16
+1029,830-4-69-901398-6,368,4,"Buena historia, bien desarrollada.",2025-10-19
+1030,276-1-76-404046-3,371,3,"Regular, algunas partes aburridas.",2023-01-05
+1031,067-3-68-205068-9,231,3,"Pasable, lectura ligera.",2023-01-19
+1032,589-6-01-937728-9,266,3,Tiene puntos interesantes pero no destaca.,2020-11-11
+1033,337-5-57-378513-3,667,5,"Magnífico, superó mis expectativas.",2020-08-15
+1034,238-8-40-995550-2,781,2,Poco claro en algunos capítulos.,2021-10-06
+1035,521-1-27-596373-9,306,5,"Excelente libro, lo recomiendo totalmente.",2022-07-24
+1036,542-7-71-410452-0,203,1,"Muy malo, una pérdida de tiempo.",2022-09-28
+1037,820-8-29-737489-3,684,3,"Pasable, lectura ligera.",2021-09-06
+1038,741-0-25-471798-3,237,5,De lo mejor que he leído últimamente.,2022-07-08
+1039,451-2-56-222083-4,455,4,"Buena historia, bien desarrollada.",2023-01-16
+1040,445-5-11-668297-2,786,3,"Está bien, pero no me atrapó del todo.",2025-08-18
+1041,630-4-89-138249-3,384,2,"Demasiado simple, le falta desarrollo.",2020-07-07
+1042,800-8-47-555773-1,271,4,"Buena historia, bien desarrollada.",2023-06-26
+1043,173-4-60-873631-1,289,5,De lo mejor que he leído últimamente.,2020-02-02
+1044,649-5-71-042599-3,406,3,Tiene puntos interesantes pero no destaca.,2023-05-29
+1045,150-6-32-405102-9,676,3,Tiene puntos interesantes pero no destaca.,2025-07-13
+1046,866-9-40-865424-0,760,2,No me convenció la trama.,2020-01-27
+1047,615-2-83-056820-6,225,2,"Demasiado simple, le falta desarrollo.",2023-11-19
+1048,026-2-06-724004-5,544,1,De los peores libros que he leído.,2023-06-13
+1049,914-1-68-601347-0,411,5,"Una lectura imprescindible, muy bien escrito.",2024-09-15
+1050,502-3-13-744715-4,262,2,Poco claro en algunos capítulos.,2021-01-16
+1051,342-3-21-611076-4,438,5,De lo mejor que he leído últimamente.,2024-03-05
+1052,489-5-64-252753-6,287,5,"Excelente libro, lo recomiendo totalmente.",2025-09-01
+1053,620-2-75-582147-1,604,1,No vale la pena leerlo.,2020-09-12
+1054,047-6-19-456158-8,334,2,Poco claro en algunos capítulos.,2022-12-05
+1055,909-1-00-916659-1,603,3,"Correcto, aunque esperaba más profundidad.",2025-01-28
+1056,797-9-83-676074-3,440,1,"No me gustó nada, mal escrito.",2021-07-11
+1057,905-5-59-084831-1,312,2,"Flojo, esperaba más del autor.",2021-11-04
+1058,196-8-24-369812-7,678,3,"Pasable, lectura ligera.",2021-05-09
+1059,724-4-75-398792-5,567,2,"No lo recomendaría, bastante predecible.",2023-06-16
+1060,136-6-49-290703-6,472,1,"Muy malo, una pérdida de tiempo.",2021-10-07
+1061,053-6-79-120720-0,242,2,Poco claro en algunos capítulos.,2021-08-30
+1062,933-5-13-426192-0,455,3,"Pasable, lectura ligera.",2025-10-04
+1063,908-1-08-186617-5,507,3,"Regular, algunas partes aburridas.",2020-05-07
+1064,823-7-08-444685-7,664,5,"Simplemente perfecto, gran autor.",2022-10-20
+1065,356-0-22-939469-6,674,1,"No me gustó nada, mal escrito.",2021-05-12
+1066,750-9-97-700886-4,264,2,No me convenció la trama.,2022-03-22
+1067,865-1-46-601705-1,582,1,No vale la pena leerlo.,2022-11-26
+1068,983-3-47-743326-9,223,1,"No me gustó nada, mal escrito.",2024-12-21
+1069,724-6-30-198642-8,295,3,"Está bien, pero no me atrapó del todo.",2020-06-23
+1070,695-4-02-313426-3,252,2,"Demasiado simple, le falta desarrollo.",2024-11-09
+1071,720-2-98-113008-7,709,1,De los peores libros que he leído.,2024-10-13
+1072,826-8-93-348649-6,563,2,No me convenció la trama.,2023-01-31
+1073,586-0-34-563338-8,657,2,"Flojo, esperaba más del autor.",2022-10-03
+1074,208-0-24-104150-3,711,4,"Buen libro, aunque con algunos altibajos.",2025-05-16
+1075,330-2-76-420865-2,290,3,"Pasable, lectura ligera.",2021-07-16
+1076,297-2-23-187086-9,405,5,"Una lectura imprescindible, muy bien escrito.",2020-03-20
+1077,874-9-32-039226-7,568,4,"Buen libro, aunque con algunos altibajos.",2025-06-08
+1078,144-1-24-522924-2,780,5,"Magnífico, superó mis expectativas.",2024-05-09
+1079,434-4-21-117549-9,385,1,Confuso y aburrido.,2022-06-16
+1080,569-9-61-125355-1,488,1,De los peores libros que he leído.,2024-01-04
+1081,209-5-54-093436-4,439,2,"Flojo, esperaba más del autor.",2022-10-12
+1082,907-6-15-001113-6,473,5,"Excelente libro, lo recomiendo totalmente.",2022-06-17
+1083,754-3-54-778015-6,598,3,"Regular, algunas partes aburridas.",2021-12-22
+1084,071-9-61-293321-6,526,3,Tiene puntos interesantes pero no destaca.,2020-04-25
+1085,731-4-03-191666-1,782,5,"Una lectura imprescindible, muy bien escrito.",2022-02-10
+1086,262-0-76-795757-7,756,3,"Regular, algunas partes aburridas.",2025-07-01
+1087,781-8-91-371894-2,293,1,"No me gustó nada, mal escrito.",2022-06-15
+1088,099-8-61-622999-4,740,4,"Muy bueno, aunque esperaba un poco más.",2023-09-20
+1089,487-4-11-486267-2,334,3,"Regular, algunas partes aburridas.",2023-08-18
+1090,622-5-22-372817-1,223,2,"Demasiado simple, le falta desarrollo.",2021-08-03
+1091,784-3-61-424426-1,739,3,"Está bien, pero no me atrapó del todo.",2024-03-10
+1092,385-1-63-578116-4,304,3,"Correcto, aunque esperaba más profundidad.",2023-08-14
+1093,377-7-29-665633-0,362,4,"Cumple lo que promete, recomendable.",2023-07-23
+1094,650-9-96-218366-9,776,5,"Magnífico, superó mis expectativas.",2022-07-03
+1095,692-8-04-179588-1,380,4,"Buena historia, bien desarrollada.",2023-04-21
+1096,242-7-67-746259-3,382,1,No vale la pena leerlo.,2024-05-22
+1097,356-1-40-081452-1,234,2,"Demasiado simple, le falta desarrollo.",2023-07-27
+1098,350-0-78-836922-3,780,1,De los peores libros que he leído.,2021-07-30
+1099,359-0-94-904447-2,280,2,Poco claro en algunos capítulos.,2023-08-01
+1100,413-3-95-479406-3,291,3,"Pasable, lectura ligera.",2020-02-16
+1101,007-2-27-683527-3,415,2,"Flojo, esperaba más del autor.",2023-12-06
+1102,922-1-00-720409-8,311,1,"Muy malo, una pérdida de tiempo.",2024-04-29
+1103,481-5-98-826874-0,630,2,"No lo recomendaría, bastante predecible.",2025-07-12
+1104,414-1-24-043968-0,560,5,De lo mejor que he leído últimamente.,2021-02-19
+1105,951-9-74-395044-8,792,2,No me convenció la trama.,2025-01-22
+1106,585-7-56-766708-6,235,3,"Está bien, pero no me atrapó del todo.",2023-07-29
+1107,982-4-37-804704-4,308,1,Confuso y aburrido.,2021-11-27
+1108,645-4-03-002143-8,365,1,No vale la pena leerlo.,2021-01-16
+1109,771-5-68-539091-1,695,1,De los peores libros que he leído.,2021-11-06
+1110,695-7-07-130802-0,645,2,"Flojo, esperaba más del autor.",2021-02-18
+1111,359-0-94-904447-2,411,2,"No lo recomendaría, bastante predecible.",2022-12-22
+1112,891-6-24-410667-0,505,2,"Flojo, esperaba más del autor.",2020-07-22
+1113,519-6-83-948422-9,786,5,De lo mejor que he leído últimamente.,2021-09-21
+1114,968-5-49-822749-1,570,1,De los peores libros que he leído.,2020-12-24
+1115,870-2-78-537982-2,692,2,"Flojo, esperaba más del autor.",2020-04-15
+1116,476-1-11-079764-3,375,3,"Está bien, pero no me atrapó del todo.",2025-04-23
+1117,293-8-44-013480-2,516,4,"Cumple lo que promete, recomendable.",2025-06-26
+1118,557-1-42-116220-2,294,5,De lo mejor que he leído últimamente.,2022-01-27
+1119,731-6-33-243087-7,591,3,"Regular, algunas partes aburridas.",2024-12-30
+1120,112-6-69-121535-2,470,4,"Cumple lo que promete, recomendable.",2022-12-14
+1121,203-6-68-642778-5,476,5,"Excelente libro, lo recomiendo totalmente.",2021-09-11
+1122,795-5-15-122946-2,288,3,Tiene puntos interesantes pero no destaca.,2024-08-22
+1123,870-8-80-635729-9,433,5,"Excelente libro, lo recomiendo totalmente.",2024-05-04
+1124,841-0-69-777532-7,629,5,De lo mejor que he leído últimamente.,2022-08-23
+1125,886-1-36-432359-2,507,1,De los peores libros que he leído.,2020-05-22
+1126,704-9-98-831206-7,785,5,"Simplemente perfecto, gran autor.",2021-08-26
+1127,650-2-00-024539-8,660,2,No me convenció la trama.,2022-05-17
+1128,688-3-00-483793-3,330,1,De los peores libros que he leído.,2020-11-16
+1129,108-8-34-442537-5,407,2,"Demasiado simple, le falta desarrollo.",2022-11-22
+1130,191-5-18-136900-8,269,1,De los peores libros que he leído.,2024-06-15
+1131,545-2-19-092671-7,534,3,Tiene puntos interesantes pero no destaca.,2025-02-19
+1132,926-1-42-939685-8,736,4,"Muy bueno, aunque esperaba un poco más.",2024-08-24
+1133,109-7-94-122487-8,352,5,"Simplemente perfecto, gran autor.",2021-02-14
+1134,290-1-62-047876-8,777,1,Confuso y aburrido.,2023-11-09
+1135,036-4-87-372590-4,471,4,"Cumple lo que promete, recomendable.",2025-04-21
+1136,851-4-03-696566-7,377,3,"Pasable, lectura ligera.",2021-08-12
+1137,152-3-48-417193-0,612,1,De los peores libros que he leído.,2023-09-19
+1138,290-4-95-776253-1,251,4,"Buena historia, bien desarrollada.",2024-03-05
+1139,074-5-05-444713-4,546,3,"Correcto, aunque esperaba más profundidad.",2023-02-22
+1140,506-8-90-255288-6,301,2,No me convenció la trama.,2023-05-15
+1141,953-4-29-703977-7,529,3,"Pasable, lectura ligera.",2020-12-31
+1142,580-5-01-417165-5,653,2,"No lo recomendaría, bastante predecible.",2025-06-07
+1143,301-6-18-804112-1,583,1,No vale la pena leerlo.,2021-10-13
+1144,761-8-20-916601-9,519,5,De lo mejor que he leído últimamente.,2021-07-09
+1145,675-8-13-434477-7,783,1,"No me gustó nada, mal escrito.",2022-02-28
+1146,489-5-38-294419-8,260,2,"Flojo, esperaba más del autor.",2025-02-12
+1147,821-4-56-532863-5,570,2,Poco claro en algunos capítulos.,2024-02-17
+1148,690-5-91-837653-4,718,4,"Muy bueno, aunque esperaba un poco más.",2020-05-05
+1149,861-0-85-973586-6,582,4,"Buen libro, aunque con algunos altibajos.",2025-01-01
+1150,264-5-63-391729-5,686,5,"Simplemente perfecto, gran autor.",2023-12-03
+1151,338-7-89-591905-9,368,3,"Está bien, pero no me atrapó del todo.",2023-03-13
+1152,258-8-74-495621-3,596,1,"No me gustó nada, mal escrito.",2022-05-27
+1153,644-5-94-761218-5,431,2,Poco claro en algunos capítulos.,2024-08-04
+1154,966-2-72-507012-9,221,1,De los peores libros que he leído.,2021-06-25
+1155,045-8-83-114147-6,209,2,Poco claro en algunos capítulos.,2023-06-05
+1156,256-9-61-921269-6,634,4,"Buena historia, bien desarrollada.",2025-02-23
+1157,357-5-38-481115-5,424,4,"Buena historia, bien desarrollada.",2024-06-14
+1158,619-6-23-268625-0,305,1,No vale la pena leerlo.,2024-03-12
+1159,293-8-62-918793-3,490,3,"Está bien, pero no me atrapó del todo.",2025-05-27
+1160,787-2-56-862110-1,545,3,"Correcto, aunque esperaba más profundidad.",2023-02-08
+1161,982-4-37-804704-4,506,2,No me convenció la trama.,2025-10-19
+1162,682-7-84-726439-6,259,5,De lo mejor que he leído últimamente.,2023-08-02
+1163,861-9-93-145843-3,227,4,"Buena historia, bien desarrollada.",2022-11-28
+1164,361-1-16-859524-5,615,4,"Muy bueno, aunque esperaba un poco más.",2022-02-16
+1165,200-0-13-278928-4,428,5,De lo mejor que he leído últimamente.,2024-01-08
+1166,810-6-59-503632-4,508,2,"Demasiado simple, le falta desarrollo.",2022-01-11
+1167,398-3-66-609797-3,300,4,Interesante y bien estructurado.,2022-11-25
+1168,369-0-86-602296-3,388,3,"Está bien, pero no me atrapó del todo.",2022-06-29
+1169,673-2-38-368414-3,429,3,"Pasable, lectura ligera.",2023-09-19
+1170,685-7-43-973847-9,467,5,"Magnífico, superó mis expectativas.",2025-03-14
+1171,678-1-27-782210-9,682,1,No vale la pena leerlo.,2020-10-18
+1172,720-1-64-854713-8,400,5,"Excelente libro, lo recomiendo totalmente.",2024-04-12
+1173,415-3-61-451831-0,506,4,"Muy bueno, aunque esperaba un poco más.",2021-09-09
+1174,332-2-28-019442-0,406,3,"Pasable, lectura ligera.",2025-02-17
+1175,800-3-66-602000-1,524,2,"Flojo, esperaba más del autor.",2025-06-20
+1176,641-0-31-841732-4,382,3,"Está bien, pero no me atrapó del todo.",2020-01-20
+1177,026-1-67-167270-9,481,2,No me convenció la trama.,2021-10-10
+1178,681-2-30-532526-9,291,2,"Demasiado simple, le falta desarrollo.",2024-11-11
+1179,074-9-81-886961-3,614,4,"Cumple lo que promete, recomendable.",2024-04-19
+1180,799-7-99-552717-5,239,5,"Una lectura imprescindible, muy bien escrito.",2024-03-08
+1181,191-8-25-537147-1,530,5,"Una lectura imprescindible, muy bien escrito.",2020-03-14
+1182,815-6-14-978403-4,455,2,Poco claro en algunos capítulos.,2023-07-02
+1183,728-3-39-121870-1,306,4,"Buen libro, aunque con algunos altibajos.",2023-06-07
+1184,910-3-90-912030-3,267,1,Confuso y aburrido.,2023-04-06
+1185,954-4-95-697755-5,733,5,"Simplemente perfecto, gran autor.",2023-10-15
+1186,298-4-75-487009-7,338,3,"Pasable, lectura ligera.",2024-01-11
+1187,693-1-80-620073-5,369,4,"Muy bueno, aunque esperaba un poco más.",2022-07-24
+1188,035-8-62-405744-4,335,2,"Flojo, esperaba más del autor.",2025-08-28
+1189,227-7-77-331680-7,327,3,"Está bien, pero no me atrapó del todo.",2024-03-16
+1190,239-5-67-217618-3,748,5,"Excelente libro, lo recomiendo totalmente.",2020-07-15
+1191,627-7-65-725659-1,221,1,"Muy malo, una pérdida de tiempo.",2024-09-03
+1192,806-9-55-211095-9,590,1,No vale la pena leerlo.,2022-11-01
+1193,454-5-36-793263-3,357,2,"Flojo, esperaba más del autor.",2023-05-18
+1194,790-2-38-940569-4,304,5,"Magnífico, superó mis expectativas.",2021-07-15
+1195,579-6-19-423802-6,308,5,"Simplemente perfecto, gran autor.",2021-04-27
+1196,159-0-51-823772-6,317,1,De los peores libros que he leído.,2022-03-24
+1197,987-0-37-844576-2,405,3,Tiene puntos interesantes pero no destaca.,2022-04-06
+1198,243-7-42-822022-8,620,3,"Regular, algunas partes aburridas.",2020-06-10
+1199,191-7-70-198277-3,709,2,"No lo recomendaría, bastante predecible.",2023-09-16
+1200,895-5-46-565317-4,203,1,"Muy malo, una pérdida de tiempo.",2021-03-28
+1201,228-8-03-260297-5,706,2,"Flojo, esperaba más del autor.",2025-09-26
+1202,983-3-47-743326-9,304,3,"Regular, algunas partes aburridas.",2025-02-13
+1203,257-3-12-536127-4,471,4,"Muy bueno, aunque esperaba un poco más.",2021-02-12
+1204,186-3-72-631995-0,241,3,"Correcto, aunque esperaba más profundidad.",2023-07-04
+1205,149-3-25-485928-6,319,1,"Muy malo, una pérdida de tiempo.",2020-02-09
+1206,759-8-89-786533-6,375,3,"Correcto, aunque esperaba más profundidad.",2024-11-27
+1207,283-2-67-011678-5,296,3,"Correcto, aunque esperaba más profundidad.",2022-01-19
+1208,269-4-28-946420-2,611,4,"Cumple lo que promete, recomendable.",2023-01-18
+1209,440-9-38-654719-6,690,4,Interesante y bien estructurado.,2021-04-08
+1210,452-0-36-089411-9,261,2,"Flojo, esperaba más del autor.",2024-08-31
+1211,110-8-71-540992-3,695,5,De lo mejor que he leído últimamente.,2022-01-12
+1212,749-6-87-574465-2,568,5,"Excelente libro, lo recomiendo totalmente.",2021-06-19
+1213,457-1-61-563360-1,700,1,De los peores libros que he leído.,2024-12-10
+1214,820-8-29-737489-3,265,3,"Correcto, aunque esperaba más profundidad.",2020-02-20
+1215,514-1-20-119067-3,791,5,"Una lectura imprescindible, muy bien escrito.",2023-10-17
+1216,805-9-51-556746-3,736,5,"Excelente libro, lo recomiendo totalmente.",2024-11-07
+1217,552-6-72-036702-5,694,3,"Pasable, lectura ligera.",2021-08-31
+1218,108-1-65-359851-8,256,1,"No me gustó nada, mal escrito.",2025-09-01
+1219,273-8-39-688560-1,708,2,"Flojo, esperaba más del autor.",2025-07-06
+1220,334-9-22-777085-1,447,3,"Correcto, aunque esperaba más profundidad.",2020-07-25
+1221,142-3-52-794340-4,429,5,De lo mejor que he leído últimamente.,2024-07-09
+1222,609-0-93-716458-0,281,4,"Cumple lo que promete, recomendable.",2025-01-09
+1223,740-3-34-450566-9,711,4,"Buena historia, bien desarrollada.",2021-05-01
+1224,600-8-88-439134-8,219,1,De los peores libros que he leído.,2024-08-15
+1225,629-1-45-046173-0,771,5,"Excelente libro, lo recomiendo totalmente.",2021-01-07
+1226,157-9-61-428234-2,512,5,"Simplemente perfecto, gran autor.",2022-04-27
+1227,778-7-34-137230-2,550,3,"Está bien, pero no me atrapó del todo.",2022-07-02
+1228,723-8-61-601861-1,540,5,"Simplemente perfecto, gran autor.",2025-04-21
+1229,859-9-19-776385-7,664,1,"Muy malo, una pérdida de tiempo.",2022-06-27
+1230,533-9-42-104709-3,550,3,"Correcto, aunque esperaba más profundidad.",2024-03-11
+1231,128-4-00-838507-2,247,2,"No lo recomendaría, bastante predecible.",2021-07-29
+1232,682-1-63-629703-9,310,3,Tiene puntos interesantes pero no destaca.,2022-03-13
+1233,501-6-27-629226-6,324,4,Interesante y bien estructurado.,2025-02-15
+1234,044-3-18-343695-0,547,1,De los peores libros que he leído.,2020-07-09
+1235,927-4-53-795696-8,327,4,"Cumple lo que promete, recomendable.",2025-08-27
+1236,029-1-61-746902-5,711,1,No vale la pena leerlo.,2020-07-17
+1237,486-5-79-681032-7,644,5,De lo mejor que he leído últimamente.,2025-09-13
+1238,161-5-38-116837-0,793,2,No me convenció la trama.,2021-02-28
+1239,315-1-31-356117-1,530,5,De lo mejor que he leído últimamente.,2024-09-10
+1240,987-0-37-844576-2,455,3,"Pasable, lectura ligera.",2023-11-05
+1241,753-9-87-245819-8,664,2,No me convenció la trama.,2024-08-17
+1242,978-0-55-014430-0,725,3,Tiene puntos interesantes pero no destaca.,2023-07-09
+1243,437-8-14-119587-6,423,2,No me convenció la trama.,2023-04-05
+1244,706-7-64-428630-9,336,2,"Demasiado simple, le falta desarrollo.",2023-08-13
+1245,312-3-45-506882-5,561,5,De lo mejor que he leído últimamente.,2024-09-05
+1246,674-0-01-847669-8,493,4,"Muy bueno, aunque esperaba un poco más.",2021-03-12
+1247,881-4-35-368222-4,591,2,"Flojo, esperaba más del autor.",2020-08-19
+1248,791-0-05-932572-2,474,2,Poco claro en algunos capítulos.,2022-10-23
+1249,033-1-83-611338-2,264,3,"Regular, algunas partes aburridas.",2020-05-12
+1250,422-0-70-431077-9,664,1,No vale la pena leerlo.,2022-07-07
+1251,496-7-77-619202-4,599,2,"Demasiado simple, le falta desarrollo.",2023-03-24
+1252,604-1-77-656124-5,591,4,"Cumple lo que promete, recomendable.",2023-07-04
+1253,760-8-30-735460-9,256,1,Confuso y aburrido.,2022-04-11
+1254,953-4-29-703977-7,431,3,Tiene puntos interesantes pero no destaca.,2022-03-15
+1255,130-7-16-753216-0,502,4,Interesante y bien estructurado.,2020-11-01
+1256,283-5-41-589290-6,378,5,"Excelente libro, lo recomiendo totalmente.",2024-03-25
+1257,701-0-82-207811-1,639,3,Tiene puntos interesantes pero no destaca.,2022-12-18
+1258,093-2-01-265789-0,365,5,"Magnífico, superó mis expectativas.",2020-01-24
+1259,230-6-36-578371-7,678,2,"Flojo, esperaba más del autor.",2021-09-21
+1260,213-2-67-763831-1,253,5,"Magnífico, superó mis expectativas.",2025-07-02
+1261,018-9-13-887217-5,764,3,"Está bien, pero no me atrapó del todo.",2023-07-25
+1262,880-2-72-099352-3,426,2,"Demasiado simple, le falta desarrollo.",2020-10-06
+1263,111-3-54-925867-8,364,4,"Buen libro, aunque con algunos altibajos.",2024-07-10
+1264,039-2-05-146074-3,558,2,No me convenció la trama.,2023-09-21
+1265,359-0-94-904447-2,570,3,"Regular, algunas partes aburridas.",2025-04-29
+1266,579-4-31-936671-5,210,1,Confuso y aburrido.,2024-12-30
+1267,682-7-84-726439-6,450,1,Confuso y aburrido.,2024-04-11
+1268,515-8-48-266913-2,596,3,Tiene puntos interesantes pero no destaca.,2023-03-04
+1269,305-6-16-484085-0,730,3,Tiene puntos interesantes pero no destaca.,2025-09-14
+1270,217-8-56-343614-2,699,1,Confuso y aburrido.,2022-02-27
+1271,031-5-18-617598-6,727,1,"Muy malo, una pérdida de tiempo.",2021-11-16
+1272,138-4-33-213300-1,747,1,"Muy malo, una pérdida de tiempo.",2022-05-13
+1273,034-3-83-000914-1,635,1,"No me gustó nada, mal escrito.",2024-11-17
+1274,685-0-74-510663-5,358,1,De los peores libros que he leído.,2023-09-20
+1275,781-8-91-371894-2,290,1,"Muy malo, una pérdida de tiempo.",2021-12-30
+1276,749-3-54-921018-5,772,1,No vale la pena leerlo.,2022-07-21
+1277,121-0-40-725453-4,618,4,"Cumple lo que promete, recomendable.",2024-07-14
+1278,492-4-60-128549-8,524,1,De los peores libros que he leído.,2021-04-29
+1279,228-0-29-798013-3,207,5,"Excelente libro, lo recomiendo totalmente.",2020-07-05
+1280,209-5-79-073710-4,567,5,"Excelente libro, lo recomiendo totalmente.",2023-04-02
+1281,078-6-95-760188-9,289,3,"Pasable, lectura ligera.",2024-04-11
+1282,811-7-96-330507-2,232,4,Interesante y bien estructurado.,2022-06-19
+1283,377-7-29-665633-0,601,5,"Magnífico, superó mis expectativas.",2021-08-13
+1284,650-4-60-262247-8,583,1,No vale la pena leerlo.,2021-08-02
+1285,034-0-30-109567-2,243,1,No vale la pena leerlo.,2024-06-02
+1286,981-1-07-808766-1,761,1,Confuso y aburrido.,2022-05-10
+1287,243-8-21-462922-5,417,4,"Buen libro, aunque con algunos altibajos.",2021-08-06
+1288,641-0-09-538557-1,389,2,"Demasiado simple, le falta desarrollo.",2022-11-01
+1289,992-1-77-351668-4,318,2,"Demasiado simple, le falta desarrollo.",2020-08-10
+1290,095-1-13-912227-2,673,5,"Excelente libro, lo recomiendo totalmente.",2023-04-05
+1291,830-3-41-990970-7,457,1,"No me gustó nada, mal escrito.",2025-06-18
+1292,944-3-88-269769-1,566,2,No me convenció la trama.,2021-02-13
+1293,601-7-43-040256-8,272,2,Poco claro en algunos capítulos.,2025-06-13
+1294,608-2-47-407943-4,537,5,"Magnífico, superó mis expectativas.",2021-09-16
+1295,110-1-76-602791-7,781,3,"Correcto, aunque esperaba más profundidad.",2024-10-20
+1296,914-0-16-933284-8,205,3,"Regular, algunas partes aburridas.",2022-06-26
+1297,768-2-51-528800-0,484,3,"Regular, algunas partes aburridas.",2023-09-20
+1298,592-5-12-118946-3,674,4,"Buena historia, bien desarrollada.",2023-06-05
+1299,623-1-47-012605-9,765,1,"No me gustó nada, mal escrito.",2020-12-01
+1300,032-8-26-735490-3,344,5,"Una lectura imprescindible, muy bien escrito.",2022-12-14
+1301,049-6-70-667033-1,278,1,No vale la pena leerlo.,2020-05-07
+1302,826-1-36-243419-9,793,4,"Buen libro, aunque con algunos altibajos.",2022-05-21
+1303,773-3-29-456255-0,765,3,Tiene puntos interesantes pero no destaca.,2025-04-17
+1304,753-5-84-640510-6,575,4,Interesante y bien estructurado.,2023-04-06
+1305,721-6-88-005378-1,676,5,"Simplemente perfecto, gran autor.",2021-01-05
+1306,923-4-44-055724-9,573,5,"Excelente libro, lo recomiendo totalmente.",2022-09-05
+1307,304-5-41-840398-9,727,2,"No lo recomendaría, bastante predecible.",2021-10-14
+1308,948-9-93-005195-4,780,5,"Una lectura imprescindible, muy bien escrito.",2025-06-03
+1309,589-3-67-428601-7,242,2,"No lo recomendaría, bastante predecible.",2022-08-07
+1310,446-8-34-146511-1,471,3,"Regular, algunas partes aburridas.",2020-06-24
+1311,033-2-49-675745-9,731,3,"Pasable, lectura ligera.",2025-04-07
+1312,884-9-74-163228-4,248,1,Confuso y aburrido.,2021-02-26
+1313,426-8-90-175017-2,481,3,Tiene puntos interesantes pero no destaca.,2021-12-13
+1314,743-8-94-752897-5,588,3,Tiene puntos interesantes pero no destaca.,2020-11-14
+1315,061-0-29-674697-3,458,4,Interesante y bien estructurado.,2025-10-16
+1316,021-4-89-040113-1,562,3,"Pasable, lectura ligera.",2025-05-28
+1317,157-9-61-428234-2,207,5,"Una lectura imprescindible, muy bien escrito.",2024-12-06
+1318,456-3-40-918580-9,436,1,No vale la pena leerlo.,2023-02-24
+1319,534-9-41-971575-0,354,2,No me convenció la trama.,2024-01-23
+1320,000-3-88-911320-5,322,2,"No lo recomendaría, bastante predecible.",2023-09-14
+1321,515-8-48-266913-2,694,4,"Cumple lo que promete, recomendable.",2022-05-13
+1322,110-8-71-540992-3,366,4,"Muy bueno, aunque esperaba un poco más.",2022-09-25
+1323,787-3-00-244714-1,331,5,"Simplemente perfecto, gran autor.",2021-10-21
+1324,841-9-66-229131-2,725,1,No vale la pena leerlo.,2021-08-24
+1325,392-8-40-445669-8,371,3,"Regular, algunas partes aburridas.",2025-10-17
+1326,927-2-77-834079-9,778,1,Confuso y aburrido.,2020-12-17
+1327,867-2-33-104481-1,660,5,De lo mejor que he leído últimamente.,2025-05-26
+1328,405-1-66-545122-1,425,4,"Buen libro, aunque con algunos altibajos.",2021-08-07
+1329,601-9-46-116081-3,387,5,"Simplemente perfecto, gran autor.",2022-12-19
+1330,070-4-72-660235-6,551,4,"Buen libro, aunque con algunos altibajos.",2020-10-08
+1331,858-2-58-545513-7,588,4,Interesante y bien estructurado.,2021-03-20
+1332,481-4-91-778507-5,408,5,"Simplemente perfecto, gran autor.",2024-09-15
+1333,109-7-94-122487-8,299,2,"No lo recomendaría, bastante predecible.",2020-06-08
+1334,499-3-94-522791-4,716,1,"Muy malo, una pérdida de tiempo.",2025-05-29
+1335,692-1-18-824199-0,753,1,De los peores libros que he leído.,2024-09-19
+1336,537-0-06-323998-9,245,5,De lo mejor que he leído últimamente.,2022-07-28
+1337,249-3-87-138992-9,591,3,Tiene puntos interesantes pero no destaca.,2021-02-04
+1338,608-5-58-834856-4,338,3,"Pasable, lectura ligera.",2022-08-10
+1339,558-0-99-613273-2,491,5,"Simplemente perfecto, gran autor.",2024-07-31
+1340,144-2-67-353842-5,394,1,"Muy malo, una pérdida de tiempo.",2021-04-27
+1341,032-2-21-138869-3,208,4,Interesante y bien estructurado.,2023-07-17
+1342,776-1-96-079117-1,571,1,"No me gustó nada, mal escrito.",2024-10-11
+1343,707-2-17-699959-7,460,3,Tiene puntos interesantes pero no destaca.,2024-09-30
+1344,077-1-42-105435-3,575,5,"Magnífico, superó mis expectativas.",2024-06-15
+1345,147-9-73-418559-5,624,5,"Simplemente perfecto, gran autor.",2025-05-30
+1346,107-4-91-619423-7,580,5,"Simplemente perfecto, gran autor.",2025-06-04
+1347,667-4-08-772107-9,515,5,"Magnífico, superó mis expectativas.",2024-06-18
+1348,712-1-24-139369-0,322,2,"No lo recomendaría, bastante predecible.",2021-10-24
+1349,339-4-39-457039-1,420,5,De lo mejor que he leído últimamente.,2023-10-18
+1350,408-4-87-426154-1,254,2,"No lo recomendaría, bastante predecible.",2020-01-22
+1351,484-3-99-106227-7,349,4,"Buen libro, aunque con algunos altibajos.",2024-11-18
+1352,132-5-79-706734-0,266,3,"Regular, algunas partes aburridas.",2024-02-27
+1353,440-3-30-416624-7,239,4,"Cumple lo que promete, recomendable.",2023-03-19
+1354,309-6-12-734857-3,259,2,"No lo recomendaría, bastante predecible.",2024-12-03
+1355,478-6-86-337524-5,407,5,"Magnífico, superó mis expectativas.",2022-03-08
+1356,823-2-98-324826-7,723,5,"Una lectura imprescindible, muy bien escrito.",2021-11-25
+1357,230-7-68-104091-1,569,2,"Flojo, esperaba más del autor.",2021-10-06
+1358,872-7-60-153433-9,483,4,"Buena historia, bien desarrollada.",2024-06-06
+1359,927-2-77-834079-9,406,5,"Excelente libro, lo recomiendo totalmente.",2020-10-08
+1360,859-1-77-932382-4,763,3,Tiene puntos interesantes pero no destaca.,2023-11-26
+1361,080-0-50-908306-7,484,2,"Demasiado simple, le falta desarrollo.",2022-03-07
+1362,602-3-52-179211-1,614,5,"Excelente libro, lo recomiendo totalmente.",2022-12-05
+1363,344-4-86-722883-7,617,5,"Excelente libro, lo recomiendo totalmente.",2020-10-23
+1364,616-6-11-857001-0,502,3,"Está bien, pero no me atrapó del todo.",2025-10-03
+1365,144-2-67-353842-5,751,5,"Magnífico, superó mis expectativas.",2024-12-18
+1366,377-3-12-524587-4,777,4,Interesante y bien estructurado.,2023-10-23
+1367,957-8-74-411284-2,672,5,"Excelente libro, lo recomiendo totalmente.",2025-05-28
+1368,483-8-93-595382-7,465,1,De los peores libros que he leído.,2022-06-21
+1369,482-3-67-883873-9,524,4,"Buena historia, bien desarrollada.",2025-10-16
+1370,935-1-70-871650-4,210,3,"Regular, algunas partes aburridas.",2023-03-22
+1371,583-7-49-079779-1,609,3,"Está bien, pero no me atrapó del todo.",2022-01-01
+1372,601-9-66-679399-1,522,3,"Regular, algunas partes aburridas.",2023-01-07
+1373,417-8-37-659153-1,395,4,Interesante y bien estructurado.,2022-08-19
+1374,470-2-63-276765-3,472,2,No me convenció la trama.,2022-04-10
+1375,179-3-64-708944-4,565,2,"Flojo, esperaba más del autor.",2021-05-06
+1376,347-5-09-889864-3,705,5,"Excelente libro, lo recomiendo totalmente.",2020-06-22
+1377,458-9-05-730199-6,581,5,"Magnífico, superó mis expectativas.",2025-07-09
+1378,214-8-68-823855-6,482,4,Interesante y bien estructurado.,2025-09-24
+1379,703-8-54-787268-5,608,2,"Demasiado simple, le falta desarrollo.",2021-06-09
+1380,070-4-96-110804-0,739,4,"Cumple lo que promete, recomendable.",2020-05-13
+1381,983-2-92-401162-3,556,4,Interesante y bien estructurado.,2025-02-15
+1382,551-3-05-570836-4,731,4,"Buena historia, bien desarrollada.",2020-02-04
+1383,287-2-80-801006-6,416,4,"Buen libro, aunque con algunos altibajos.",2021-02-16
+1384,691-0-82-965612-5,571,5,"Magnífico, superó mis expectativas.",2022-02-05
+1385,584-4-57-352640-7,470,2,Poco claro en algunos capítulos.,2025-04-14
+1386,861-4-02-454224-2,575,2,"No lo recomendaría, bastante predecible.",2024-10-02
+1387,650-0-32-990900-7,630,3,"Correcto, aunque esperaba más profundidad.",2024-06-28
+1388,511-1-56-733851-4,662,2,"Demasiado simple, le falta desarrollo.",2021-06-21
+1389,935-8-83-978479-2,435,1,Confuso y aburrido.,2022-08-23
+1390,406-4-67-651727-5,643,4,Interesante y bien estructurado.,2021-08-20
+1391,109-7-94-122487-8,685,1,"No me gustó nada, mal escrito.",2024-09-22
+1392,238-8-40-995550-2,338,5,"Simplemente perfecto, gran autor.",2023-07-17
+1393,623-9-37-840871-0,508,3,Tiene puntos interesantes pero no destaca.,2020-07-14
+1394,505-6-24-481888-3,302,2,"Flojo, esperaba más del autor.",2022-06-01
+1395,050-7-07-750884-7,688,1,De los peores libros que he leído.,2023-10-02
+1396,898-3-18-730950-5,570,3,Tiene puntos interesantes pero no destaca.,2022-11-21
+1397,939-3-50-462933-6,221,4,"Muy bueno, aunque esperaba un poco más.",2023-12-09
+1398,887-5-25-768752-4,404,5,"Simplemente perfecto, gran autor.",2021-12-15
+1399,400-0-40-756023-3,564,3,Tiene puntos interesantes pero no destaca.,2025-06-19
+1400,424-2-78-412876-1,281,4,"Buen libro, aunque con algunos altibajos.",2023-03-19
+1401,564-6-67-667491-3,349,2,Poco claro en algunos capítulos.,2024-09-23
+1402,349-1-02-639864-1,615,1,"Muy malo, una pérdida de tiempo.",2021-10-25
+1403,307-0-90-633602-9,434,3,"Correcto, aunque esperaba más profundidad.",2023-04-08
+1404,023-1-89-672012-7,605,3,"Pasable, lectura ligera.",2024-01-27
+1405,207-2-79-999499-8,734,4,"Cumple lo que promete, recomendable.",2021-11-16
+1406,336-7-96-082896-7,224,2,No me convenció la trama.,2022-10-27
+1407,440-3-30-416624-7,416,2,"No lo recomendaría, bastante predecible.",2021-02-25
+1408,255-0-21-306090-5,266,4,"Buen libro, aunque con algunos altibajos.",2020-08-08
+1409,659-1-84-638655-6,607,5,"Excelente libro, lo recomiendo totalmente.",2021-03-01
+1410,457-6-77-657666-8,360,1,De los peores libros que he leído.,2023-06-21
+1411,160-3-78-110570-5,454,3,"Pasable, lectura ligera.",2021-06-01
+1412,716-1-98-273481-9,740,2,"Flojo, esperaba más del autor.",2020-05-23
+1413,872-3-90-371558-2,534,4,"Cumple lo que promete, recomendable.",2023-01-20
+1414,584-4-57-352640-7,656,2,"Demasiado simple, le falta desarrollo.",2021-12-26
+1415,254-8-35-459957-6,668,5,De lo mejor que he leído últimamente.,2023-06-22
+1416,869-6-11-084039-5,694,5,"Una lectura imprescindible, muy bien escrito.",2021-01-01
+1417,427-3-59-840705-6,516,3,"Pasable, lectura ligera.",2022-11-30
+1418,972-3-60-244654-0,511,1,"Muy malo, una pérdida de tiempo.",2021-07-12
+1419,138-5-22-359062-0,494,4,"Buen libro, aunque con algunos altibajos.",2020-02-04
+1420,309-0-53-301925-6,689,3,"Está bien, pero no me atrapó del todo.",2024-10-29
+1421,895-5-71-319844-0,437,1,No vale la pena leerlo.,2024-03-10
+1422,624-9-75-374057-1,622,5,De lo mejor que he leído últimamente.,2024-06-04
+1423,562-2-71-926026-8,368,4,"Cumple lo que promete, recomendable.",2022-06-22
+1424,903-2-14-303183-3,282,4,Interesante y bien estructurado.,2025-10-17
+1425,797-9-83-676074-3,492,5,"Magnífico, superó mis expectativas.",2024-08-18
+1426,651-8-87-114860-7,271,2,No me convenció la trama.,2023-04-01
+1427,696-9-44-391649-8,667,5,De lo mejor que he leído últimamente.,2023-01-19
+1428,502-3-13-744715-4,393,3,"Está bien, pero no me atrapó del todo.",2021-09-15
+1429,079-3-34-960501-1,748,1,"No me gustó nada, mal escrito.",2021-02-22
+1430,962-5-05-073249-0,476,2,"No lo recomendaría, bastante predecible.",2020-02-03
+1431,198-2-81-794779-4,293,2,"Flojo, esperaba más del autor.",2025-07-14
+1432,644-4-84-368681-8,551,4,"Buena historia, bien desarrollada.",2025-08-03
+1433,197-7-89-516650-2,675,1,Confuso y aburrido.,2020-11-24
+1434,425-2-51-618575-7,258,3,"Pasable, lectura ligera.",2020-10-19
+1435,308-4-83-972006-0,682,2,No me convenció la trama.,2022-10-21
+1436,241-7-03-642373-0,213,1,"No me gustó nada, mal escrito.",2024-04-25
+1437,580-3-91-277905-8,454,1,"No me gustó nada, mal escrito.",2025-03-02
+1438,821-7-39-295786-3,734,2,"No lo recomendaría, bastante predecible.",2024-05-12
+1439,769-2-68-994738-2,531,2,"Flojo, esperaba más del autor.",2021-05-15
+1440,801-1-30-852315-5,693,3,"Regular, algunas partes aburridas.",2024-01-16
+1441,074-1-20-948181-7,424,1,"No me gustó nada, mal escrito.",2024-11-13
+1442,965-6-88-720204-7,216,2,Poco claro en algunos capítulos.,2021-05-05
+1443,110-1-46-023535-9,449,1,"Muy malo, una pérdida de tiempo.",2025-04-30
+1444,216-5-15-567337-5,359,3,"Está bien, pero no me atrapó del todo.",2022-10-15
+1445,527-2-84-539749-1,712,1,No vale la pena leerlo.,2023-10-18
+1446,091-8-43-579786-3,262,3,"Regular, algunas partes aburridas.",2021-03-15
+1447,893-4-86-883906-4,700,2,Poco claro en algunos capítulos.,2023-11-23
+1448,958-8-07-327146-2,398,1,De los peores libros que he leído.,2024-01-07
+1449,841-9-66-229131-2,457,1,De los peores libros que he leído.,2024-11-27
+1450,369-0-86-602296-3,502,5,De lo mejor que he leído últimamente.,2022-02-16
+1451,356-7-94-154094-3,392,5,"Magnífico, superó mis expectativas.",2023-08-18
+1452,970-6-44-071253-4,482,5,"Simplemente perfecto, gran autor.",2021-10-18
+1453,635-3-39-055044-5,744,2,"No lo recomendaría, bastante predecible.",2023-04-26
+1454,387-1-35-566963-4,755,3,"Pasable, lectura ligera.",2020-01-03
+1455,671-9-79-697816-8,589,2,"Flojo, esperaba más del autor.",2024-01-31
+1456,558-7-74-526348-8,529,1,No vale la pena leerlo.,2024-05-06
+1457,537-0-62-728167-6,737,4,"Buen libro, aunque con algunos altibajos.",2021-09-23
+1458,940-4-39-351602-4,531,4,"Buena historia, bien desarrollada.",2021-03-28
+1459,926-9-32-657327-3,736,1,"Muy malo, una pérdida de tiempo.",2021-06-15
+1460,452-7-19-367857-2,233,2,"Flojo, esperaba más del autor.",2025-06-11
+1461,825-3-20-831681-3,302,1,No vale la pena leerlo.,2024-05-10
+1462,971-5-80-851115-3,739,5,"Simplemente perfecto, gran autor.",2022-11-14
+1463,172-2-60-164597-6,576,2,"Demasiado simple, le falta desarrollo.",2020-10-17
+1464,659-6-57-569245-9,414,4,"Muy bueno, aunque esperaba un poco más.",2025-04-01
+1465,289-9-31-608752-6,570,5,De lo mejor que he leído últimamente.,2024-02-20
+1466,975-2-45-086403-9,473,5,"Excelente libro, lo recomiendo totalmente.",2020-10-15
+1467,731-3-40-377917-0,280,2,"Demasiado simple, le falta desarrollo.",2021-02-01
+1468,865-6-19-425577-5,437,5,De lo mejor que he leído últimamente.,2022-02-15
+1469,114-8-65-658189-0,739,2,"Demasiado simple, le falta desarrollo.",2022-01-02
+1470,928-3-53-424950-8,772,4,"Muy bueno, aunque esperaba un poco más.",2024-01-06
+1471,000-2-42-012776-3,638,1,"No me gustó nada, mal escrito.",2022-01-08
+1472,049-8-86-453868-3,612,5,"Magnífico, superó mis expectativas.",2021-10-09
+1473,674-0-01-847669-8,654,3,"Correcto, aunque esperaba más profundidad.",2023-08-22
+1474,630-2-12-918236-5,623,4,"Buena historia, bien desarrollada.",2022-09-12
+1475,711-3-83-514635-5,759,2,"No lo recomendaría, bastante predecible.",2022-11-06
+1476,408-3-37-836159-7,664,4,"Cumple lo que promete, recomendable.",2020-01-01
+1477,602-5-92-222064-4,492,5,"Excelente libro, lo recomiendo totalmente.",2025-10-21
+1478,322-6-26-114243-4,510,1,Confuso y aburrido.,2022-06-27
+1479,136-9-41-264106-5,523,1,Confuso y aburrido.,2025-09-25
+1480,859-6-35-722315-2,785,5,"Una lectura imprescindible, muy bien escrito.",2021-01-21
+1481,384-6-89-500975-2,672,3,"Regular, algunas partes aburridas.",2021-07-20
+1482,557-1-42-116220-2,576,5,"Una lectura imprescindible, muy bien escrito.",2022-08-12
+1483,939-1-85-362054-7,508,1,No vale la pena leerlo.,2024-06-25
+1484,428-8-78-925986-4,423,1,Confuso y aburrido.,2025-05-30
+1485,578-9-68-335570-0,700,5,"Excelente libro, lo recomiendo totalmente.",2023-05-15
+1486,851-4-03-696566-7,791,4,"Muy bueno, aunque esperaba un poco más.",2020-08-17
+1487,169-4-26-166647-2,557,4,"Cumple lo que promete, recomendable.",2021-05-08
+1488,857-0-42-402555-9,212,4,"Muy bueno, aunque esperaba un poco más.",2023-06-02
+1489,663-7-86-120459-5,243,3,Tiene puntos interesantes pero no destaca.,2021-09-04
+1490,611-1-47-620734-4,715,2,No me convenció la trama.,2020-07-25
+1491,519-6-83-948422-9,657,5,"Simplemente perfecto, gran autor.",2025-08-29
+1492,316-1-17-768729-0,428,4,"Buena historia, bien desarrollada.",2024-06-03
+1493,858-1-81-045024-4,336,3,"Está bien, pero no me atrapó del todo.",2025-05-03
+1494,496-3-08-397725-5,251,5,De lo mejor que he leído últimamente.,2022-12-11
+1495,513-3-05-319497-8,609,5,De lo mejor que he leído últimamente.,2021-06-18
+1496,566-7-06-362198-3,693,5,"Una lectura imprescindible, muy bien escrito.",2025-06-21
+1497,693-6-24-088516-6,786,2,"Demasiado simple, le falta desarrollo.",2022-10-05
+1498,503-7-54-807805-0,274,3,"Pasable, lectura ligera.",2023-08-17
+1499,444-5-03-231248-0,292,1,De los peores libros que he leído.,2024-09-30
+1500,492-0-31-759145-8,557,2,Poco claro en algunos capítulos.,2023-11-12
+1501,278-3-32-859683-4,225,3,"Regular, algunas partes aburridas.",2023-12-03
+1502,642-3-82-235522-8,350,4,"Muy bueno, aunque esperaba un poco más.",2022-08-14
+1503,106-1-66-910082-0,583,2,"Flojo, esperaba más del autor.",2021-04-05
+1504,968-5-49-822749-1,449,5,"Una lectura imprescindible, muy bien escrito.",2023-03-24
+1505,825-0-71-461125-8,552,1,Confuso y aburrido.,2025-01-17
+1506,342-8-90-426854-3,224,3,"Regular, algunas partes aburridas.",2022-05-17
+1507,601-7-03-961017-3,760,5,"Magnífico, superó mis expectativas.",2025-06-01
+1508,482-3-73-379121-4,219,4,"Buen libro, aunque con algunos altibajos.",2020-06-27
+1509,846-1-68-787321-9,375,1,Confuso y aburrido.,2022-04-02
+1510,159-0-11-250231-2,255,4,"Muy bueno, aunque esperaba un poco más.",2020-09-29
+1511,723-0-99-070464-7,478,3,"Está bien, pero no me atrapó del todo.",2020-03-19
+1512,387-3-45-052194-7,596,2,"No lo recomendaría, bastante predecible.",2025-09-13
+1513,802-7-11-221823-1,524,4,"Buen libro, aunque con algunos altibajos.",2020-12-26
+1514,317-2-66-528246-0,404,5,De lo mejor que he leído últimamente.,2020-03-29
+1515,505-0-61-387829-4,454,5,"Magnífico, superó mis expectativas.",2023-09-28
+1516,971-5-80-851115-3,603,2,"Flojo, esperaba más del autor.",2023-11-21
+1517,247-6-86-707167-1,564,3,"Regular, algunas partes aburridas.",2025-08-15
+1518,062-2-30-635673-7,264,3,"Pasable, lectura ligera.",2020-04-30
+1519,343-1-53-293149-9,487,2,No me convenció la trama.,2023-10-31
+1520,519-6-83-948422-9,341,1,De los peores libros que he leído.,2022-07-20
+1521,822-1-19-457205-6,447,5,"Una lectura imprescindible, muy bien escrito.",2024-10-12
+1522,314-5-94-568150-5,538,4,"Buen libro, aunque con algunos altibajos.",2021-06-23
+1523,033-2-49-675745-9,342,5,"Simplemente perfecto, gran autor.",2022-04-08
+1524,712-1-24-139369-0,517,5,"Una lectura imprescindible, muy bien escrito.",2024-10-27
+1525,184-9-37-846790-4,779,2,Poco claro en algunos capítulos.,2020-10-04
+1526,947-4-34-188157-3,746,1,"No me gustó nada, mal escrito.",2023-07-24
+1527,562-2-21-905334-6,231,3,"Pasable, lectura ligera.",2024-08-11
+1528,554-0-77-005355-4,654,3,"Regular, algunas partes aburridas.",2022-02-08
+1529,117-5-95-749885-5,335,2,"Flojo, esperaba más del autor.",2022-12-29
+1530,975-2-54-217191-5,781,5,"Una lectura imprescindible, muy bien escrito.",2022-08-09
+1531,709-3-40-991650-1,227,3,"Está bien, pero no me atrapó del todo.",2025-05-06
+1532,948-2-32-204144-1,715,5,De lo mejor que he leído últimamente.,2024-03-11
+1533,494-6-92-085649-4,597,4,"Cumple lo que promete, recomendable.",2021-07-17
+1534,364-8-82-159773-5,398,2,"Flojo, esperaba más del autor.",2024-07-31
+1535,481-2-60-422325-1,477,4,Interesante y bien estructurado.,2022-04-10
+1536,260-8-25-263794-4,268,2,"No lo recomendaría, bastante predecible.",2025-06-29
+1537,272-9-43-610909-2,669,2,"No lo recomendaría, bastante predecible.",2024-07-16
+1538,884-7-95-137116-0,590,3,"Pasable, lectura ligera.",2020-06-06
+1539,315-2-27-911074-8,312,4,"Cumple lo que promete, recomendable.",2020-06-22
+1540,531-4-51-341700-8,732,5,De lo mejor que he leído últimamente.,2020-06-09
+1541,539-7-20-560064-3,597,5,"Excelente libro, lo recomiendo totalmente.",2022-02-16
+1542,295-9-86-777055-8,651,4,"Buena historia, bien desarrollada.",2023-03-17
+1543,629-2-25-953762-6,371,4,"Buena historia, bien desarrollada.",2020-08-11
+1544,158-9-96-099326-7,346,4,"Cumple lo que promete, recomendable.",2021-01-05
+1545,161-6-93-133363-7,316,2,"Demasiado simple, le falta desarrollo.",2021-07-08
+1546,635-1-45-228232-7,624,3,"Pasable, lectura ligera.",2020-04-12
+1547,315-3-50-696261-1,665,5,"Una lectura imprescindible, muy bien escrito.",2025-02-05
+1548,859-1-77-932382-4,457,3,"Regular, algunas partes aburridas.",2021-05-21
+1549,933-5-13-426192-0,317,4,"Buena historia, bien desarrollada.",2020-12-15
+1550,589-6-01-937728-9,594,5,"Simplemente perfecto, gran autor.",2021-10-16
+1551,414-1-24-043968-0,764,4,"Muy bueno, aunque esperaba un poco más.",2021-11-30
+1552,790-3-36-759479-9,780,2,No me convenció la trama.,2021-08-15
+1553,315-3-50-696261-1,253,4,"Buena historia, bien desarrollada.",2023-06-21
+1554,732-3-72-492921-5,496,2,"Flojo, esperaba más del autor.",2021-06-22
+1555,747-7-65-659070-5,204,5,"Magnífico, superó mis expectativas.",2020-02-20
+1556,000-2-42-012776-3,710,4,"Buen libro, aunque con algunos altibajos.",2020-01-24
+1557,882-3-98-843772-7,706,2,No me convenció la trama.,2025-05-02
+1558,232-4-69-355169-3,620,4,"Muy bueno, aunque esperaba un poco más.",2020-01-27
+1559,826-4-29-518525-1,761,3,Tiene puntos interesantes pero no destaca.,2022-04-30
+1560,327-8-81-476174-6,390,2,"Flojo, esperaba más del autor.",2023-11-30
+1561,773-3-29-456255-0,349,1,No vale la pena leerlo.,2023-05-07
+1562,359-0-94-904447-2,290,1,"Muy malo, una pérdida de tiempo.",2024-09-03
+1563,903-4-21-348548-5,366,3,Tiene puntos interesantes pero no destaca.,2021-12-27
+1564,207-8-18-741465-9,793,3,"Está bien, pero no me atrapó del todo.",2021-01-16
+1565,980-4-33-315696-7,531,3,"Pasable, lectura ligera.",2020-10-04
+1566,887-0-71-360421-3,764,1,Confuso y aburrido.,2025-04-12
+1567,029-1-61-746902-5,325,3,"Correcto, aunque esperaba más profundidad.",2024-08-21
+1568,781-3-62-480467-0,415,2,"Demasiado simple, le falta desarrollo.",2020-08-26
+1569,056-6-18-632397-0,786,5,"Excelente libro, lo recomiendo totalmente.",2025-06-04
+1570,637-4-06-859646-6,495,4,"Buen libro, aunque con algunos altibajos.",2023-07-20
+1571,348-6-96-537155-8,739,5,"Simplemente perfecto, gran autor.",2023-12-20
+1572,516-9-94-970890-5,777,4,"Buen libro, aunque con algunos altibajos.",2025-07-31
+1573,783-1-35-719093-8,385,5,"Una lectura imprescindible, muy bien escrito.",2023-04-04
+1574,130-7-16-753216-0,202,1,"Muy malo, una pérdida de tiempo.",2025-03-19
+1575,828-5-60-539707-2,413,5,De lo mejor que he leído últimamente.,2024-08-22
+1576,114-1-52-085076-4,542,3,Tiene puntos interesantes pero no destaca.,2022-05-19
+1577,830-4-69-901398-6,407,3,"Correcto, aunque esperaba más profundidad.",2020-10-04
+1578,288-4-63-773485-3,508,5,"Simplemente perfecto, gran autor.",2023-08-19
+1579,932-4-60-953962-6,317,3,"Correcto, aunque esperaba más profundidad.",2024-06-10
+1580,576-8-29-967282-1,230,2,No me convenció la trama.,2023-09-15
+1581,771-5-68-539091-1,691,4,"Muy bueno, aunque esperaba un poco más.",2021-07-10
+1582,818-3-38-070331-9,360,4,"Buen libro, aunque con algunos altibajos.",2023-10-04
+1583,232-8-64-250464-8,624,1,No vale la pena leerlo.,2023-05-11
+1584,862-6-46-161501-4,524,5,"Simplemente perfecto, gran autor.",2020-03-17
+1585,287-3-14-249562-5,792,3,"Correcto, aunque esperaba más profundidad.",2020-09-28
+1586,282-6-25-420412-8,488,1,Confuso y aburrido.,2024-03-16
+1587,007-5-07-975221-1,370,5,"Simplemente perfecto, gran autor.",2024-05-14
+1588,016-7-67-187762-8,320,3,"Correcto, aunque esperaba más profundidad.",2020-05-09
+1589,425-0-79-669978-0,624,1,De los peores libros que he leído.,2022-08-31
+1590,685-7-43-973847-9,663,3,"Regular, algunas partes aburridas.",2023-05-23
+1591,344-4-86-722883-7,315,3,"Está bien, pero no me atrapó del todo.",2022-04-07
+1592,824-0-73-333732-1,655,5,"Excelente libro, lo recomiendo totalmente.",2025-05-30
+1593,935-7-63-381235-9,358,2,Poco claro en algunos capítulos.,2025-06-03
+1594,625-3-95-639487-5,518,3,"Regular, algunas partes aburridas.",2021-02-06
+1595,161-9-46-537092-5,336,2,"Flojo, esperaba más del autor.",2025-02-24
+1596,858-4-31-357408-0,735,1,"Muy malo, una pérdida de tiempo.",2023-06-27
+1597,071-4-01-401193-7,290,3,"Pasable, lectura ligera.",2020-07-07
+1598,812-2-82-178192-9,734,3,"Está bien, pero no me atrapó del todo.",2023-07-02
+1599,009-4-09-165737-3,529,2,No me convenció la trama.,2023-03-19
+1600,056-8-78-071265-5,746,3,"Pasable, lectura ligera.",2021-04-26
+1601,752-2-79-294965-5,353,2,Poco claro en algunos capítulos.,2021-04-13
+1602,518-6-36-374545-3,774,5,"Excelente libro, lo recomiendo totalmente.",2022-04-26
+1603,871-6-90-733821-5,559,5,"Magnífico, superó mis expectativas.",2023-01-15
+1604,994-5-29-517122-0,491,5,"Una lectura imprescindible, muy bien escrito.",2021-12-02
+1605,857-9-06-477159-8,519,5,"Magnífico, superó mis expectativas.",2024-12-22
+1606,507-2-08-115562-2,334,1,De los peores libros que he leído.,2020-07-25
+1607,450-5-73-036279-5,593,1,"Muy malo, una pérdida de tiempo.",2024-10-12
+1608,405-0-85-013474-1,384,5,"Simplemente perfecto, gran autor.",2024-12-31
+1609,915-7-98-155518-8,520,3,"Regular, algunas partes aburridas.",2020-11-17
+1610,612-3-58-790507-1,782,2,"Flojo, esperaba más del autor.",2025-04-02
+1611,483-7-44-171581-3,667,3,"Pasable, lectura ligera.",2025-04-11
+1612,567-9-81-302656-6,430,2,"Demasiado simple, le falta desarrollo.",2022-11-22
+1613,437-6-36-628711-6,602,2,Poco claro en algunos capítulos.,2023-08-23
+1614,316-8-15-164919-0,700,1,"Muy malo, una pérdida de tiempo.",2025-04-30
+1615,815-7-24-500000-4,560,4,"Cumple lo que promete, recomendable.",2021-11-30
+1616,502-7-49-623838-5,557,5,"Simplemente perfecto, gran autor.",2021-06-05
+1617,265-6-79-926624-0,306,4,"Muy bueno, aunque esperaba un poco más.",2023-08-27
+1618,000-1-05-689779-8,273,3,Tiene puntos interesantes pero no destaca.,2025-03-03
+1619,683-2-02-271131-2,624,2,"Demasiado simple, le falta desarrollo.",2022-09-25
+1620,618-0-30-387942-9,363,4,"Cumple lo que promete, recomendable.",2020-09-27
+1621,199-7-71-180167-7,414,5,De lo mejor que he leído últimamente.,2024-11-18
+1622,501-2-32-900112-0,551,5,"Una lectura imprescindible, muy bien escrito.",2021-12-09
+1623,445-5-11-668297-2,788,4,"Muy bueno, aunque esperaba un poco más.",2025-03-11
+1624,691-0-82-965612-5,769,1,De los peores libros que he leído.,2021-12-22
+1625,448-3-72-687793-8,616,1,No vale la pena leerlo.,2021-03-21
+1626,876-5-97-324605-4,589,3,"Pasable, lectura ligera.",2020-09-08
+1627,967-3-79-487148-7,423,2,"Demasiado simple, le falta desarrollo.",2020-01-01
+1628,174-6-53-537801-4,353,4,"Buen libro, aunque con algunos altibajos.",2023-04-08
+1629,252-5-43-093535-0,792,4,Interesante y bien estructurado.,2022-04-22
+1630,590-7-31-282111-6,507,5,"Magnífico, superó mis expectativas.",2024-11-15
+1631,338-7-89-591905-9,292,5,"Excelente libro, lo recomiendo totalmente.",2025-09-21
+1632,580-0-87-575751-2,331,3,"Está bien, pero no me atrapó del todo.",2024-02-21
+1633,095-1-13-912227-2,255,1,No vale la pena leerlo.,2024-01-11
+1634,348-6-40-104246-2,489,1,"No me gustó nada, mal escrito.",2024-11-03
+1635,238-7-48-489369-3,604,3,"Pasable, lectura ligera.",2024-07-21
+1636,241-7-03-642373-0,646,5,"Una lectura imprescindible, muy bien escrito.",2021-12-11
+1637,848-6-18-174575-6,343,2,"Demasiado simple, le falta desarrollo.",2024-04-24
+1638,604-7-09-280337-3,628,2,Poco claro en algunos capítulos.,2021-05-29
+1639,322-7-75-213530-0,212,1,"Muy malo, una pérdida de tiempo.",2021-08-12
+1640,000-4-71-940656-6,648,2,"Flojo, esperaba más del autor.",2021-07-16
+1641,143-8-27-646123-9,667,5,De lo mejor que he leído últimamente.,2022-01-06
+1642,723-8-61-601861-1,722,4,"Buen libro, aunque con algunos altibajos.",2025-01-17
+1643,693-8-05-145386-2,564,2,No me convenció la trama.,2024-10-05
+1644,328-0-19-409451-2,208,5,De lo mejor que he leído últimamente.,2022-08-27
+1645,290-5-88-841936-5,476,4,"Buen libro, aunque con algunos altibajos.",2024-02-12
+1646,432-5-62-168936-3,239,5,De lo mejor que he leído últimamente.,2024-02-18
+1647,905-6-70-867009-1,795,4,"Muy bueno, aunque esperaba un poco más.",2021-08-04
+1648,487-8-64-801051-6,487,4,"Buen libro, aunque con algunos altibajos.",2020-11-16
+1649,907-9-23-285337-2,291,2,"No lo recomendaría, bastante predecible.",2020-11-15
+1650,681-3-56-362244-2,794,3,Tiene puntos interesantes pero no destaca.,2020-08-04
+1651,307-0-90-633602-9,748,1,De los peores libros que he leído.,2025-02-02
+1652,298-3-31-265281-6,681,5,"Magnífico, superó mis expectativas.",2024-09-20
+1653,435-0-69-782099-0,502,3,"Regular, algunas partes aburridas.",2020-05-24
+1654,426-5-49-537057-1,512,5,"Magnífico, superó mis expectativas.",2020-09-08
+1655,376-4-94-133098-1,793,2,"Demasiado simple, le falta desarrollo.",2020-07-30
+1656,282-9-33-528789-8,228,3,"Pasable, lectura ligera.",2020-12-03
+1657,039-8-86-365362-5,718,1,Confuso y aburrido.,2022-10-29
+1658,452-0-36-089411-9,488,3,"Correcto, aunque esperaba más profundidad.",2020-02-28
+1659,505-5-73-857368-0,379,5,"Una lectura imprescindible, muy bien escrito.",2025-01-03
+1660,744-2-17-563949-5,380,3,"Regular, algunas partes aburridas.",2025-06-09
+1661,376-9-92-964447-0,741,1,Confuso y aburrido.,2020-12-11
+1662,750-0-03-056619-2,358,4,"Cumple lo que promete, recomendable.",2024-04-18
+1663,246-8-96-701656-0,651,2,No me convenció la trama.,2023-11-14
+1664,193-9-28-456797-0,471,1,"Muy malo, una pérdida de tiempo.",2021-11-17
+1665,610-0-49-835900-1,609,4,"Buena historia, bien desarrollada.",2025-05-04
+1666,588-4-54-908678-8,440,4,"Cumple lo que promete, recomendable.",2025-04-27
+1667,852-9-64-552175-3,349,5,De lo mejor que he leído últimamente.,2020-02-18
+1668,187-7-79-533422-6,660,4,"Buena historia, bien desarrollada.",2020-06-17
+1669,293-1-10-059129-8,745,3,"Pasable, lectura ligera.",2023-01-21
+1670,479-8-01-170564-4,477,3,"Está bien, pero no me atrapó del todo.",2022-11-11
+1671,066-5-69-300903-9,601,4,Interesante y bien estructurado.,2022-03-09
+1672,981-0-53-405347-9,546,2,Poco claro en algunos capítulos.,2020-02-13
+1673,239-8-68-000257-4,270,1,De los peores libros que he leído.,2021-02-04
+1674,533-8-37-331074-3,307,4,"Buena historia, bien desarrollada.",2022-06-17
+1675,668-4-80-316367-0,458,2,"Flojo, esperaba más del autor.",2020-04-07
+1676,039-2-05-146074-3,259,5,"Una lectura imprescindible, muy bien escrito.",2021-05-13
+1677,981-9-87-809270-0,289,5,"Una lectura imprescindible, muy bien escrito.",2024-03-19
+1678,248-1-72-971311-8,390,1,"No me gustó nada, mal escrito.",2022-11-03
+1679,173-0-63-908583-1,679,1,De los peores libros que he leído.,2023-02-06
+1680,278-6-02-849635-0,532,3,"Regular, algunas partes aburridas.",2020-10-30
+1681,593-6-01-941270-9,264,4,"Cumple lo que promete, recomendable.",2023-09-24
+1682,505-7-39-769156-9,465,3,"Regular, algunas partes aburridas.",2024-12-09
+1683,444-4-63-060002-9,704,2,"Demasiado simple, le falta desarrollo.",2024-05-27
+1684,079-1-79-138601-4,704,1,"No me gustó nada, mal escrito.",2024-11-01
+1685,108-1-94-842262-7,309,4,"Buena historia, bien desarrollada.",2021-02-27
+1686,038-4-98-302205-2,275,1,No vale la pena leerlo.,2022-10-23
+1687,320-9-48-168531-8,220,4,Interesante y bien estructurado.,2020-01-04
+1688,384-6-89-500975-2,600,3,"Regular, algunas partes aburridas.",2023-09-12
+1689,028-9-96-668685-9,789,1,No vale la pena leerlo.,2025-07-02
+1690,428-1-43-519419-9,647,4,"Muy bueno, aunque esperaba un poco más.",2022-07-14
+1691,896-1-18-367365-3,594,4,"Muy bueno, aunque esperaba un poco más.",2024-01-10
+1692,730-5-39-003432-5,511,4,"Muy bueno, aunque esperaba un poco más.",2021-01-06
+1693,492-0-31-759145-8,748,3,"Está bien, pero no me atrapó del todo.",2025-02-25
+1694,724-2-27-496652-8,408,2,"Demasiado simple, le falta desarrollo.",2020-06-10
+1695,385-8-00-999866-1,396,3,"Pasable, lectura ligera.",2021-03-13
+1696,169-0-47-610296-5,699,1,De los peores libros que he leído.,2022-02-15
+1697,861-9-93-145843-3,237,2,"Flojo, esperaba más del autor.",2022-09-03
+1698,932-2-06-462066-8,599,1,No vale la pena leerlo.,2023-06-14
+1699,319-8-54-480667-1,747,4,"Muy bueno, aunque esperaba un poco más.",2020-05-31
+1700,848-7-49-400926-9,258,3,"Está bien, pero no me atrapó del todo.",2024-07-18
+1701,216-5-05-871469-4,417,5,De lo mejor que he leído últimamente.,2021-09-02
+1702,370-9-97-263329-8,439,1,"Muy malo, una pérdida de tiempo.",2021-08-02
+1703,974-1-88-682875-3,220,4,"Buen libro, aunque con algunos altibajos.",2020-07-06
+1704,963-3-46-746466-8,334,1,"No me gustó nada, mal escrito.",2020-07-23
+1705,490-2-37-432692-1,300,4,"Buen libro, aunque con algunos altibajos.",2021-11-30
+1706,002-3-09-729678-1,266,1,"Muy malo, una pérdida de tiempo.",2025-07-29
+1707,590-4-75-476917-4,426,1,"No me gustó nada, mal escrito.",2024-10-11
+1708,517-1-35-284547-4,612,3,"Está bien, pero no me atrapó del todo.",2021-07-16
+1709,477-5-68-863713-3,419,1,No vale la pena leerlo.,2021-12-11
+1710,416-3-82-511723-3,265,1,Confuso y aburrido.,2021-08-01
+1711,049-5-66-865103-7,373,3,Tiene puntos interesantes pero no destaca.,2021-11-06
+1712,958-8-07-327146-2,450,5,"Excelente libro, lo recomiendo totalmente.",2021-06-30
+1713,847-0-68-103903-3,586,2,"Flojo, esperaba más del autor.",2025-06-17
+1714,788-1-16-162028-2,207,1,"No me gustó nada, mal escrito.",2020-12-31
+1715,683-4-85-497515-3,491,4,"Cumple lo que promete, recomendable.",2021-06-03
+1716,106-5-73-517454-8,347,3,Tiene puntos interesantes pero no destaca.,2025-01-18
+1717,034-5-94-893049-2,445,2,"Demasiado simple, le falta desarrollo.",2020-06-03
+1718,216-5-15-567337-5,385,4,"Buen libro, aunque con algunos altibajos.",2020-12-26
+1719,054-1-13-713463-8,557,4,"Muy bueno, aunque esperaba un poco más.",2022-08-23
+1720,370-8-51-191944-2,321,5,"Excelente libro, lo recomiendo totalmente.",2024-01-22
+1721,023-2-58-699800-0,720,2,"No lo recomendaría, bastante predecible.",2022-05-02
+1722,450-3-37-902940-6,255,2,"Flojo, esperaba más del autor.",2021-09-03
+1723,454-5-36-793263-3,710,2,No me convenció la trama.,2020-06-25
+1724,058-3-19-971791-6,573,3,"Regular, algunas partes aburridas.",2024-11-15
+1725,557-7-79-174312-6,543,5,De lo mejor que he leído últimamente.,2020-06-26
+1726,994-7-11-363379-8,254,5,"Una lectura imprescindible, muy bien escrito.",2021-10-09
+1727,471-7-54-558845-5,697,5,"Excelente libro, lo recomiendo totalmente.",2020-10-17
+1728,566-5-18-378477-9,656,5,"Simplemente perfecto, gran autor.",2023-08-28
+1729,470-8-07-092785-7,404,3,"Regular, algunas partes aburridas.",2021-03-27
+1730,744-5-40-691438-5,434,1,"No me gustó nada, mal escrito.",2024-08-16
+1731,220-0-74-859724-6,585,2,"Flojo, esperaba más del autor.",2025-04-13
+1732,136-0-49-474214-5,697,1,De los peores libros que he leído.,2021-08-16
+1733,646-3-98-970145-2,666,2,"No lo recomendaría, bastante predecible.",2024-03-09
+1734,377-7-29-665633-0,669,2,Poco claro en algunos capítulos.,2023-01-09
+1735,627-2-05-364991-6,544,2,"Flojo, esperaba más del autor.",2020-09-01
+1736,032-8-26-735490-3,340,1,De los peores libros que he leído.,2025-02-21
+1737,330-9-94-791415-7,376,3,"Regular, algunas partes aburridas.",2023-04-23
+1738,055-1-62-977291-0,361,5,"Una lectura imprescindible, muy bien escrito.",2022-07-29
+1739,490-2-28-403595-1,622,5,De lo mejor que he leído últimamente.,2022-06-05
+1740,067-0-99-053032-2,685,4,"Buena historia, bien desarrollada.",2020-02-29
+1741,750-3-80-954185-7,453,2,Poco claro en algunos capítulos.,2024-11-13
+1742,370-9-97-263329-8,428,5,"Una lectura imprescindible, muy bien escrito.",2020-01-21
+1743,072-7-42-005029-2,246,1,De los peores libros que he leído.,2025-08-27
+1744,823-2-98-324826-7,636,5,De lo mejor que he leído últimamente.,2025-05-17
+1745,159-5-91-945757-5,664,4,Interesante y bien estructurado.,2020-12-06
+1746,800-6-48-615779-7,213,4,Interesante y bien estructurado.,2021-06-27
+1747,208-9-67-604062-4,503,2,"Flojo, esperaba más del autor.",2020-03-06
+1748,509-4-78-641638-9,513,2,"No lo recomendaría, bastante predecible.",2020-04-09
+1749,510-2-71-905814-5,675,2,"No lo recomendaría, bastante predecible.",2022-01-27
+1750,537-0-06-323998-9,676,1,"Muy malo, una pérdida de tiempo.",2024-04-25
+1751,860-7-81-384751-2,744,1,Confuso y aburrido.,2024-10-10
+1752,335-7-02-409398-1,756,5,"Una lectura imprescindible, muy bien escrito.",2020-11-27
+1753,443-0-65-772112-0,257,5,"Magnífico, superó mis expectativas.",2020-07-30
+1754,754-3-73-476427-3,593,3,"Pasable, lectura ligera.",2020-06-16
+1755,653-4-80-249668-5,576,2,"Demasiado simple, le falta desarrollo.",2020-10-01
+1756,941-3-82-258140-3,410,2,Poco claro en algunos capítulos.,2022-09-04
+1757,740-9-12-602870-8,317,4,"Buen libro, aunque con algunos altibajos.",2022-05-09
+1758,365-6-11-568622-5,529,3,"Correcto, aunque esperaba más profundidad.",2025-08-24
+1759,227-4-45-454472-6,484,1,"Muy malo, una pérdida de tiempo.",2024-03-07
+1760,706-7-64-428630-9,664,4,"Buen libro, aunque con algunos altibajos.",2021-05-17
+1761,008-8-88-764143-1,745,5,"Magnífico, superó mis expectativas.",2025-01-25
+1762,955-9-58-277069-2,268,2,"No lo recomendaría, bastante predecible.",2020-12-23
+1763,008-9-21-963945-4,601,2,Poco claro en algunos capítulos.,2020-11-11
+1764,056-6-18-632397-0,369,3,"Está bien, pero no me atrapó del todo.",2021-08-29
+1765,126-4-56-967570-6,355,2,"Demasiado simple, le falta desarrollo.",2020-04-02
+1766,619-1-89-875579-1,627,5,"Una lectura imprescindible, muy bien escrito.",2025-04-25
+1767,502-6-64-273869-4,631,4,"Muy bueno, aunque esperaba un poco más.",2023-04-09
+1768,326-9-83-443695-0,265,1,"No me gustó nada, mal escrito.",2025-10-29
+1769,176-6-35-215267-3,622,5,"Magnífico, superó mis expectativas.",2023-08-29
+1770,246-5-21-225624-5,743,5,De lo mejor que he leído últimamente.,2025-02-18
+1771,424-6-84-732550-0,781,2,Poco claro en algunos capítulos.,2021-12-04
+1772,973-4-14-850275-1,433,4,"Buena historia, bien desarrollada.",2023-03-26
+1773,300-8-93-173420-6,352,3,"Correcto, aunque esperaba más profundidad.",2025-02-10
+1774,991-8-43-113266-9,365,5,"Magnífico, superó mis expectativas.",2022-01-16
+1775,830-8-58-001873-9,358,2,No me convenció la trama.,2021-04-23
+1776,867-1-77-318063-7,525,5,"Una lectura imprescindible, muy bien escrito.",2024-12-10
+1777,130-0-78-867587-2,579,2,No me convenció la trama.,2020-05-22
+1778,804-7-07-893798-4,553,2,Poco claro en algunos capítulos.,2025-01-10
+1779,465-4-11-242296-8,367,5,"Magnífico, superó mis expectativas.",2021-05-12
+1780,501-1-02-481934-4,615,4,Interesante y bien estructurado.,2025-02-19
+1781,858-2-40-497795-6,360,1,No vale la pena leerlo.,2025-09-09
+1782,452-7-86-109547-2,503,4,"Buena historia, bien desarrollada.",2021-08-25
+1783,826-3-74-646225-5,653,3,"Está bien, pero no me atrapó del todo.",2025-05-15
+1784,262-5-82-739021-9,343,5,"Excelente libro, lo recomiendo totalmente.",2023-06-15
+1785,811-2-88-013361-6,612,5,"Una lectura imprescindible, muy bien escrito.",2024-12-31
+1786,618-2-77-347749-5,295,3,"Está bien, pero no me atrapó del todo.",2022-03-10
+1787,045-2-08-235096-0,740,2,Poco claro en algunos capítulos.,2022-03-12
+1788,556-1-10-022557-1,286,5,De lo mejor que he leído últimamente.,2020-12-23
+1789,687-0-17-215184-8,604,2,"No lo recomendaría, bastante predecible.",2023-07-25
+1790,143-0-27-679918-3,724,1,Confuso y aburrido.,2024-06-16
+1791,391-0-38-297425-7,638,3,"Pasable, lectura ligera.",2024-03-07
+1792,334-1-01-666870-7,492,3,"Correcto, aunque esperaba más profundidad.",2023-06-15
+1793,217-8-56-343614-2,775,1,"No me gustó nada, mal escrito.",2024-12-24
+1794,223-4-49-447484-1,654,3,"Regular, algunas partes aburridas.",2024-10-02
+1795,663-9-30-322168-9,343,5,"Simplemente perfecto, gran autor.",2020-12-18
+1796,633-7-61-851862-2,413,3,"Pasable, lectura ligera.",2023-10-05
+1797,226-8-59-262494-5,585,1,"Muy malo, una pérdida de tiempo.",2024-08-04
+1798,184-3-66-020931-9,625,2,"Demasiado simple, le falta desarrollo.",2025-03-07
+1799,818-6-32-433508-9,341,2,No me convenció la trama.,2024-04-12
+1800,118-5-72-350194-8,768,4,"Muy bueno, aunque esperaba un poco más.",2023-05-21
+1801,718-9-80-457692-8,512,4,"Buen libro, aunque con algunos altibajos.",2025-03-13
+1802,466-8-98-593213-4,228,1,"No me gustó nada, mal escrito.",2022-12-11
+1803,752-6-15-878989-3,684,1,Confuso y aburrido.,2024-09-04
+1804,700-1-44-130686-0,704,2,"Flojo, esperaba más del autor.",2021-05-03
+1805,388-6-55-009159-3,705,1,No vale la pena leerlo.,2024-01-21
+1806,058-3-28-371587-3,693,5,De lo mejor que he leído últimamente.,2022-11-22
+1807,747-9-31-980712-0,323,3,Tiene puntos interesantes pero no destaca.,2020-03-12
+1808,839-6-92-151002-8,367,5,"Excelente libro, lo recomiendo totalmente.",2021-08-21
+1809,371-6-50-942315-4,673,2,Poco claro en algunos capítulos.,2021-10-30
+1810,465-3-98-402891-9,480,3,"Pasable, lectura ligera.",2023-12-29
+1811,776-7-49-961659-6,497,3,Tiene puntos interesantes pero no destaca.,2020-11-10
+1812,953-6-44-148777-9,399,2,"Flojo, esperaba más del autor.",2021-11-15
+1813,524-6-93-604259-1,531,3,"Correcto, aunque esperaba más profundidad.",2023-01-16
+1814,674-6-16-160543-5,299,5,"Simplemente perfecto, gran autor.",2023-12-11
+1815,013-2-82-339218-2,214,2,"Demasiado simple, le falta desarrollo.",2023-02-26
+1816,850-7-86-725308-9,697,4,"Buena historia, bien desarrollada.",2021-10-29
+1817,359-7-37-112229-7,424,2,"Demasiado simple, le falta desarrollo.",2022-06-24
+1818,693-1-80-620073-5,773,5,"Simplemente perfecto, gran autor.",2021-04-11
+1819,822-1-19-457205-6,672,1,"Muy malo, una pérdida de tiempo.",2021-06-21
+1820,212-7-75-618537-4,692,3,"Correcto, aunque esperaba más profundidad.",2024-01-25
+1821,529-6-35-305970-2,653,5,"Simplemente perfecto, gran autor.",2023-11-02
+1822,708-4-77-954176-9,512,1,"Muy malo, una pérdida de tiempo.",2022-06-29
+1823,699-9-69-882904-5,346,2,Poco claro en algunos capítulos.,2021-05-28
+1824,009-4-09-165737-3,334,1,De los peores libros que he leído.,2021-04-02
+1825,439-4-35-353751-8,220,4,"Cumple lo que promete, recomendable.",2020-06-23
+1826,286-1-78-925714-0,311,1,No vale la pena leerlo.,2020-08-30
+1827,043-8-93-531732-8,322,3,"Está bien, pero no me atrapó del todo.",2020-09-28
+1828,968-9-74-095290-2,211,1,"Muy malo, una pérdida de tiempo.",2022-04-21
+1829,029-1-43-942074-7,405,2,Poco claro en algunos capítulos.,2020-04-29
+1830,476-8-18-268323-2,350,3,Tiene puntos interesantes pero no destaca.,2023-11-25
+1831,719-0-70-677693-4,365,5,"Simplemente perfecto, gran autor.",2022-09-17
+1832,679-3-07-217821-3,784,1,"Muy malo, una pérdida de tiempo.",2020-02-27
+1833,205-9-35-415723-4,423,2,Poco claro en algunos capítulos.,2021-12-04
+1834,981-1-07-808766-1,205,1,"No me gustó nada, mal escrito.",2025-08-27
+1835,571-0-70-611402-8,576,5,"Una lectura imprescindible, muy bien escrito.",2024-12-05
+1836,102-8-67-120072-6,386,3,"Pasable, lectura ligera.",2024-10-03
+1837,141-3-18-118140-3,727,2,"No lo recomendaría, bastante predecible.",2021-04-07
+1838,774-6-62-199785-7,327,4,"Muy bueno, aunque esperaba un poco más.",2025-10-29
+1839,074-2-35-914261-0,708,3,"Correcto, aunque esperaba más profundidad.",2020-06-15
+1840,051-8-43-905529-9,536,4,"Muy bueno, aunque esperaba un poco más.",2024-04-25
+1841,499-7-47-547377-3,668,5,"Magnífico, superó mis expectativas.",2024-12-23
+1842,858-6-63-565418-1,768,4,"Buena historia, bien desarrollada.",2024-10-18
+1843,688-6-58-348348-5,272,4,"Buena historia, bien desarrollada.",2022-01-04
+1844,754-1-21-267888-3,704,1,De los peores libros que he leído.,2024-11-29
+1845,642-1-78-572280-4,288,1,"No me gustó nada, mal escrito.",2024-06-05
+1846,865-1-46-601705-1,305,2,"Flojo, esperaba más del autor.",2024-01-29
+1847,003-8-14-634292-0,547,2,"Demasiado simple, le falta desarrollo.",2024-07-13
+1848,462-0-93-556103-0,439,4,"Cumple lo que promete, recomendable.",2023-02-14
+1849,329-5-44-055463-4,480,4,"Buena historia, bien desarrollada.",2025-05-02
+1850,143-0-27-679918-3,615,4,"Buen libro, aunque con algunos altibajos.",2023-02-16
+1851,971-7-05-984451-6,666,1,"Muy malo, una pérdida de tiempo.",2022-10-23
+1852,410-2-82-963802-3,710,2,No me convenció la trama.,2020-05-01
+1853,802-7-11-221823-1,255,1,De los peores libros que he leído.,2020-04-19
+1854,948-9-93-005195-4,592,5,"Magnífico, superó mis expectativas.",2021-09-17
+1855,075-3-50-246948-5,299,1,No vale la pena leerlo.,2025-07-09
+1856,272-8-28-815659-9,407,3,"Pasable, lectura ligera.",2025-07-01
+1857,024-9-11-699347-3,468,5,"Magnífico, superó mis expectativas.",2020-03-13
+1858,170-5-86-509480-3,641,1,De los peores libros que he leído.,2025-01-17
+1859,940-6-01-541382-7,586,4,"Cumple lo que promete, recomendable.",2020-05-27
+1860,270-3-35-211039-4,382,5,"Magnífico, superó mis expectativas.",2021-11-03
+1861,258-4-00-906250-7,642,2,Poco claro en algunos capítulos.,2024-05-12
+1862,391-7-23-288239-7,313,5,De lo mejor que he leído últimamente.,2025-04-08
+1863,188-6-83-547374-0,776,2,"Demasiado simple, le falta desarrollo.",2020-08-16
+1864,065-1-49-473965-7,470,4,"Buen libro, aunque con algunos altibajos.",2024-03-27
+1865,988-3-68-636444-1,492,3,"Está bien, pero no me atrapó del todo.",2020-04-25
+1866,614-9-43-405013-8,247,2,Poco claro en algunos capítulos.,2023-11-29
+1867,442-3-60-256732-4,228,3,"Pasable, lectura ligera.",2021-02-02
+1868,750-3-80-954185-7,554,3,"Pasable, lectura ligera.",2023-12-09
+1869,637-1-59-741218-2,451,2,No me convenció la trama.,2023-07-02
+1870,857-8-10-528941-2,287,1,Confuso y aburrido.,2021-04-13
+1871,833-5-94-822452-5,374,1,No vale la pena leerlo.,2023-08-28
+1872,851-4-03-696566-7,672,4,"Buen libro, aunque con algunos altibajos.",2025-10-09
+1873,774-7-35-106744-5,474,1,De los peores libros que he leído.,2020-04-01
+1874,708-0-63-139594-5,587,5,De lo mejor que he leído últimamente.,2023-08-13
+1875,029-8-45-582814-4,301,4,"Muy bueno, aunque esperaba un poco más.",2022-04-23
+1876,868-6-46-414735-6,709,5,"Magnífico, superó mis expectativas.",2021-11-13
+1877,663-3-16-140823-7,573,4,Interesante y bien estructurado.,2025-07-28
+1878,850-3-44-651241-7,749,2,Poco claro en algunos capítulos.,2022-12-22
+1879,436-2-62-044397-8,505,5,De lo mejor que he leído últimamente.,2022-07-14
+1880,039-2-05-146074-3,793,1,No vale la pena leerlo.,2023-10-11
+1881,184-3-66-020931-9,269,5,"Simplemente perfecto, gran autor.",2025-04-30
+1882,914-9-95-253595-4,415,3,"Está bien, pero no me atrapó del todo.",2023-05-21
+1883,491-9-28-324951-7,508,4,"Buen libro, aunque con algunos altibajos.",2023-07-07
+1884,520-5-80-286060-8,625,4,"Buena historia, bien desarrollada.",2025-10-11
+1885,478-1-10-162198-6,761,2,"Flojo, esperaba más del autor.",2025-10-15
+1886,724-0-00-208601-2,791,4,Interesante y bien estructurado.,2025-03-29
+1887,870-2-72-820400-6,746,5,De lo mejor que he leído últimamente.,2020-09-02
+1888,443-2-97-920222-6,406,3,"Pasable, lectura ligera.",2021-08-28
+1889,969-2-06-660485-1,355,3,"Pasable, lectura ligera.",2024-08-07
+1890,214-7-06-165373-3,266,2,"No lo recomendaría, bastante predecible.",2022-12-29
+1891,140-3-34-050810-3,365,3,Tiene puntos interesantes pero no destaca.,2022-08-25
+1892,021-4-89-040113-1,445,1,"No me gustó nada, mal escrito.",2022-02-25
+1893,906-6-98-490277-9,452,3,"Pasable, lectura ligera.",2025-06-11
+1894,165-8-06-438551-0,647,4,"Muy bueno, aunque esperaba un poco más.",2022-04-07
+1895,858-8-38-256726-4,480,2,"Flojo, esperaba más del autor.",2022-11-24
+1896,546-7-39-316490-3,764,2,"Flojo, esperaba más del autor.",2025-06-13
+1897,099-8-61-622999-4,257,1,Confuso y aburrido.,2023-05-05
+1898,376-5-45-628417-2,617,3,"Está bien, pero no me atrapó del todo.",2024-06-13
+1899,020-2-56-913303-2,442,1,No vale la pena leerlo.,2025-08-11
+1900,825-4-31-832812-3,735,5,"Simplemente perfecto, gran autor.",2022-10-28
